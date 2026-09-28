@@ -4865,13 +4865,13 @@
           "displayPrice": "$214.99"
         }
       ],
-      "checkedAt": "2026-09-28T04:35:22.096Z",
+      "checkedAt": "2026-09-28T07:45:28.250Z",
       "sourceUrl": "https://apps.apple.com/us/app/claude-by-anthropic/id6473753684"
     },
     "google": {
       "currency": "USD",
       "range": "$20.00 - $279.99 per item",
-      "checkedAt": "2026-09-28T04:35:22.286Z",
+      "checkedAt": "2026-09-28T07:45:28.448Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=US&hl=en"
     }
   },
