@@ -1,0 +1,112 @@
+name: Scheduled Pricing & FX Collector
+
+on:
+  schedule:
+    # Run daily at 03:17 UTC
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Simulate collection without committing or syncing'
+        type: boolean
+        default: false
+        required: false
+      country:
+        description: 'Filter specific country code(s) (e.g. US or US,JP,GB)'
+        type: string
+        default: ''
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pricing-collector-main
+  cancel-in-progress: false
+
+jobs:
+  collect-and-sync:
+    name: Collect Store Prices & Sync
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout collector repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run pricing collector
+        env:
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+          COUNTRY: ${{ github.event.inputs.country }}
+        run: |
+          args=()
+          if [ "$DRY_RUN" = "true" ]; then
+            args+=(--dry-run)
+          fi
+          if [ -n "$COUNTRY" ]; then
+            args+=(--country "$COUNTRY")
+          fi
+          python3 scripts/update_prices.py "${args[@]}"
+
+      - name: Update exchange-rate snapshot
+        if: github.event.inputs.dry_run != 'true'
+        continue-on-error: true
+        run: python3 scripts/update_fx.py
+
+      - name: Validate JSON contract
+        run: |
+          python3 scripts/update_prices.py --check
+
+      - name: Commit and push locally in collector repo
+        id: commit_collector
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          if git diff --quiet -- src/data/prices.json src/data/fx.json; then
+            echo "No changes detected in pricing or exchange rates."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "Changes detected in pricing or exchange rates. Committing..."
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add src/data/prices.json src/data/fx.json
+            git commit -m "chore(data): update store prices and exchange rates"
+            git push origin main
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Sync data to private claudefix repository
+        if: github.event.inputs.dry_run != 'true'
+        env:
+          SYNC_DEPLOY_KEY: ${{ secrets.SYNC_DEPLOY_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SYNC_DEPLOY_KEY" > ~/.ssh/claudefix_deploy_key
+          chmod 600 ~/.ssh/claudefix_deploy_key
+          ssh-keyscan -t ed25519 github.com >> ~/.ssh/known_hosts
+
+          export GIT_SSH_COMMAND="ssh -i ~/.ssh/claudefix_deploy_key -o StrictHostKeyChecking=accept-new"
+
+          git clone git@github.com:overdev-team/claudefix.git /tmp/claudefix-target
+          cp src/data/prices.json /tmp/claudefix-target/src/data/prices.json
+          cp src/data/fx.json /tmp/claudefix-target/src/data/fx.json
+
+          cd /tmp/claudefix-target
+          if git diff --quiet -- src/data/prices.json src/data/fx.json; then
+            echo "Private claudefix repository already up to date."
+          else
+            echo "Syncing updated pricing data to overdev-team/claudefix..."
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add src/data/prices.json src/data/fx.json
+            git commit -m "chore(data): auto-sync latest store prices and exchange rates [skip ci]"
+            git push origin main
+            echo "Successfully synced to overdev-team/claudefix!"
+          fi

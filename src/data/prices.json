@@ -1,0 +1,5130 @@
+{
+  "AE": {
+    "google": {
+      "currency": "AED",
+      "range": "AED 79.99 - AED 999.88 per item",
+      "checkedAt": "2026-09-28T04:35:22.382Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=AE&hl=en"
+    },
+    "apple": {
+      "currency": "AED",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "AED 79.99"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "AED 499.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "AED 999.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "AED 799.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:22.171Z",
+      "sourceUrl": "https://apps.apple.com/ae/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "AG": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:39.710Z",
+      "sourceUrl": "https://apps.apple.com/ag/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "AL": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 25.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 149.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 249.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:38.853Z",
+      "sourceUrl": "https://apps.apple.com/al/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "AM": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 25.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 149.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 249.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:40.260Z",
+      "sourceUrl": "https://apps.apple.com/am/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "AO": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:38.996Z",
+      "sourceUrl": "https://apps.apple.com/ao/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "AR": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:39.822Z",
+      "sourceUrl": "https://apps.apple.com/ar/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "AT": {
+    "google": {
+      "currency": "EUR",
+      "range": "€ 22,00 - € 275,00 if billed through Play",
+      "checkedAt": "2026-09-28T04:34:40.974Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=AT&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:40.729Z",
+      "sourceUrl": "https://apps.apple.com/at/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "AU": {
+    "apple": {
+      "currency": "AUD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "$30.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "$199.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "$399.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "$349.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:40.375Z",
+      "sourceUrl": "https://apps.apple.com/au/app/claude-by-anthropic/id6473753684"
+    },
+    "google": {
+      "currency": "AUD",
+      "range": "$33.99 - $424.88 per item",
+      "checkedAt": "2026-09-28T04:34:40.638Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=AU&hl=en"
+    }
+  },
+  "AZ": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 25.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 149.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 249.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:40.463Z",
+      "sourceUrl": "https://apps.apple.com/az/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "BA": {
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:42.716Z",
+      "sourceUrl": "https://apps.apple.com/ba/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "BB": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 25.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 149.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 249.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:41.408Z",
+      "sourceUrl": "https://apps.apple.com/bb/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "BD": {
+    "google": {
+      "currency": "BDT",
+      "range": "BDT 2,700.00 - BDT 33,750.00 per item",
+      "checkedAt": "2026-09-28T04:34:41.726Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=BD&hl=en"
+    }
+  },
+  "BE": {
+    "google": {
+      "currency": "EUR",
+      "range": "€22.00 - €275.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:34:42.147Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=BE&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:41.812Z",
+      "sourceUrl": "https://apps.apple.com/be/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "BF": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:43.968Z",
+      "sourceUrl": "https://apps.apple.com/bf/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "BG": {
+    "google": {
+      "currency": "EUR",
+      "range": "€20.45 - €255.58 if billed through Play",
+      "checkedAt": "2026-09-28T04:34:43.665Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=BG&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:43.414Z",
+      "sourceUrl": "https://apps.apple.com/bg/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "BH": {
+    "google": {
+      "currency": "USD",
+      "range": "$22.00 - $275.00 per item",
+      "checkedAt": "2026-09-28T04:34:41.277Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=BH&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "$22.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "$129.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "$299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "$229.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:41.062Z",
+      "sourceUrl": "https://apps.apple.com/bh/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "BJ": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 25.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 149.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 249.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:42.076Z",
+      "sourceUrl": "https://apps.apple.com/bj/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "BN": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:43.603Z",
+      "sourceUrl": "https://apps.apple.com/bn/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "BO": {
+    "google": {
+      "currency": "BOB",
+      "range": "BOB 240.00 - BOB 2,975.00 per item",
+      "checkedAt": "2026-09-28T04:34:42.904Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=BO&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:42.641Z",
+      "sourceUrl": "https://apps.apple.com/bo/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "BR": {
+    "apple": {
+      "currency": "BRL",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "R$ 129,90"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "R$ 799,90"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "R$ 1.499,90"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "R$ 1.299,90"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:43.239Z",
+      "sourceUrl": "https://apps.apple.com/br/app/claude-by-anthropic/id6473753684"
+    },
+    "google": {
+      "currency": "BRL",
+      "range": "R$110.00 - R$1,375.00 per item",
+      "checkedAt": "2026-09-28T04:34:43.509Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=BR&hl=en"
+    }
+  },
+  "BS": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 22.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 129.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 229.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:41.121Z",
+      "sourceUrl": "https://apps.apple.com/bs/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "BT": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:42.192Z",
+      "sourceUrl": "https://apps.apple.com/bt/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "BW": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:42.847Z",
+      "sourceUrl": "https://apps.apple.com/bw/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "BZ": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:41.943Z",
+      "sourceUrl": "https://apps.apple.com/bz/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "CA": {
+    "apple": {
+      "currency": "CAD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "$28.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "$179.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "$349.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "$299.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:44.892Z",
+      "sourceUrl": "https://apps.apple.com/ca/app/claude-by-anthropic/id6473753684"
+    },
+    "google": {
+      "currency": "CAD",
+      "range": "$28.00 - $350.00 per item",
+      "checkedAt": "2026-09-28T04:34:45.077Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=CA&hl=en"
+    }
+  },
+  "CD": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:46.354Z",
+      "sourceUrl": "https://apps.apple.com/cd/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "CG": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:46.635Z",
+      "sourceUrl": "https://apps.apple.com/cg/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "CH": {
+    "google": {
+      "currency": "CHF",
+      "range": "CHF 20.00 - CHF 250.00 per item",
+      "checkedAt": "2026-09-28T04:35:19.402Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=CH&hl=en"
+    },
+    "apple": {
+      "currency": "CHF",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "CHF 18.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "CHF 100.00"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "CHF 200.00"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "CHF 200.00"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:19.083Z",
+      "sourceUrl": "https://apps.apple.com/ch/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "CI": {
+    "google": {
+      "currency": "XOF",
+      "range": "F CFA 12,281 - F CFA 153,512 per item",
+      "checkedAt": "2026-09-28T04:34:47.034Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=CI&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "25,00 $US"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 $US"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 $US"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 $US"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:46.818Z",
+      "sourceUrl": "https://apps.apple.com/ci/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "CL": {
+    "apple": {
+      "currency": "CLP",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "$22.990"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "$149.990"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "$299.990"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "$249.990"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:45.559Z",
+      "sourceUrl": "https://apps.apple.com/cl/app/claude-by-anthropic/id6473753684"
+    },
+    "google": {
+      "currency": "CLP",
+      "range": "CLP 19,990 - CLP 249,875 per item",
+      "checkedAt": "2026-09-28T04:34:45.786Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=CL&hl=en"
+    }
+  },
+  "CM": {
+    "google": {
+      "currency": "XAF",
+      "range": "FCFA 13,490 - FCFA 169,900 per item",
+      "checkedAt": "2026-09-28T04:34:46.271Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=CM&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "25,00 $US"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 $US"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 $US"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 $US"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:44.795Z",
+      "sourceUrl": "https://apps.apple.com/cm/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "CO": {
+    "google": {
+      "currency": "COP",
+      "range": "COP 63,490 - COP 789,900 per item",
+      "checkedAt": "2026-09-28T04:34:46.159Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=CO&hl=en"
+    },
+    "apple": {
+      "currency": "COP",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "$ 99.900,00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "$ 599.900,00"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "$ 1.199.900,00"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "$ 999.900,00"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:45.904Z",
+      "sourceUrl": "https://apps.apple.com/co/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "CR": {
+    "google": {
+      "currency": "CRC",
+      "range": "CRC 10,600.00 - CRC 132,500.00 per item",
+      "checkedAt": "2026-09-28T04:34:48.498Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=CR&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:46.730Z",
+      "sourceUrl": "https://apps.apple.com/cr/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "CV": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:44.295Z",
+      "sourceUrl": "https://apps.apple.com/cv/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "CY": {
+    "google": {
+      "currency": "EUR",
+      "range": "€22.00 - €275.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:34:47.589Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=CY&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:47.404Z",
+      "sourceUrl": "https://apps.apple.com/cy/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "CZ": {
+    "google": {
+      "currency": "CZK",
+      "range": "499,00 CZK - 6 237,50 CZK if billed through Play",
+      "checkedAt": "2026-09-28T04:34:48.113Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=CZ&hl=en"
+    },
+    "apple": {
+      "currency": "CZK",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "499,00 Kč"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "3 490,00 Kč"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "6 990,00 Kč"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "5 990,00 Kč"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:47.900Z",
+      "sourceUrl": "https://apps.apple.com/cz/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "DE": {
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:52.745Z",
+      "sourceUrl": "https://apps.apple.com/de/app/claude-by-anthropic/id6473753684"
+    },
+    "google": {
+      "currency": "EUR",
+      "range": "€22.00 - €275.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:34:53.056Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=DE&hl=en"
+    }
+  },
+  "DK": {
+    "google": {
+      "currency": "DKK",
+      "range": "159,99 kr. - 1.990,00 kr. if billed through Play",
+      "checkedAt": "2026-09-28T04:34:48.859Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=DK&hl=en"
+    },
+    "apple": {
+      "currency": "DKK",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "179,00 kr"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "999,00 kr"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "1.999,00 kr"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "1.999,00 kr"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:48.650Z",
+      "sourceUrl": "https://apps.apple.com/dk/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "DM": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:48.939Z",
+      "sourceUrl": "https://apps.apple.com/dm/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "DO": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:49.030Z",
+      "sourceUrl": "https://apps.apple.com/do/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "DZ": {
+    "google": {
+      "currency": "DZD",
+      "range": "DZD 2,675.00 - DZD 33,437.50 per item",
+      "checkedAt": "2026-09-28T04:34:39.297Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=DZ&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "$20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "$124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "$249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "$214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:38.993Z",
+      "sourceUrl": "https://apps.apple.com/dz/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "EC": {
+    "google": {
+      "currency": "USD",
+      "range": "$20.00 - $250.00 per item",
+      "checkedAt": "2026-09-28T04:34:49.556Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=EC&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:49.355Z",
+      "sourceUrl": "https://apps.apple.com/ec/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "EE": {
+    "google": {
+      "currency": "EUR",
+      "range": "€22.00 - €275.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:34:51.446Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=EE&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:50.291Z",
+      "sourceUrl": "https://apps.apple.com/ee/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "EG": {
+    "google": {
+      "currency": "EGP",
+      "range": "EGP 1,099.99 - EGP 13,749.88 per item",
+      "checkedAt": "2026-09-28T04:34:50.751Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=EG&hl=en"
+    },
+    "apple": {
+      "currency": "EGP",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "EGP 999.99"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "EGP 6,999.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "EGP 12,999.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "EGP 9,999.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:49.613Z",
+      "sourceUrl": "https://apps.apple.com/eg/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "ES": {
+    "google": {
+      "currency": "EUR",
+      "range": "€22.00 - €275.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:35:18.919Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=ES&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:17.810Z",
+      "sourceUrl": "https://apps.apple.com/es/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "FI": {
+    "google": {
+      "currency": "EUR",
+      "range": "€22.00 - €275.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:34:52.592Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=FI&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:51.386Z",
+      "sourceUrl": "https://apps.apple.com/fi/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "FJ": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:51.042Z",
+      "sourceUrl": "https://apps.apple.com/fj/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "FM": {
+    "google": {
+      "currency": "USD",
+      "range": "US$20.00 - US$250.00 per item",
+      "checkedAt": "2026-09-28T04:35:04.300Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=FM&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:04.057Z",
+      "sourceUrl": "https://apps.apple.com/fm/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "FR": {
+    "google": {
+      "currency": "EUR",
+      "range": "€22.00 - €275.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:34:51.997Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=FR&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:51.707Z",
+      "sourceUrl": "https://apps.apple.com/fr/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "GA": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:51.814Z",
+      "sourceUrl": "https://apps.apple.com/ga/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "GB": {
+    "apple": {
+      "currency": "GBP",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "£20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "£119.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "£249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "£199.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:22.503Z",
+      "sourceUrl": "https://apps.apple.com/gb/app/claude-by-anthropic/id6473753684"
+    },
+    "google": {
+      "currency": "GBP",
+      "range": "£18.00 - £225.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:35:22.949Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=GB&hl=en"
+    }
+  },
+  "GD": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:53.191Z",
+      "sourceUrl": "https://apps.apple.com/gd/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "GE": {
+    "google": {
+      "currency": "GEL",
+      "range": "69,00 ₾ - 862,50 ₾ per item",
+      "checkedAt": "2026-09-28T04:34:52.535Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=GE&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 25.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 149.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 249.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:52.278Z",
+      "sourceUrl": "https://apps.apple.com/ge/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "GH": {
+    "google": {
+      "currency": "GHS",
+      "range": "GH₵254.99 - GH₵3,190.00 per item",
+      "checkedAt": "2026-09-28T04:34:54.098Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=GH&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 25.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 149.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 249.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:52.920Z",
+      "sourceUrl": "https://apps.apple.com/gh/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "GM": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:51.887Z",
+      "sourceUrl": "https://apps.apple.com/gm/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "GR": {
+    "google": {
+      "currency": "EUR",
+      "range": "€22.00 - €275.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:34:53.246Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=GR&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:52.842Z",
+      "sourceUrl": "https://apps.apple.com/gr/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "GT": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:53.527Z",
+      "sourceUrl": "https://apps.apple.com/gt/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "GW": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:53.810Z",
+      "sourceUrl": "https://apps.apple.com/gw/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "GY": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:54.198Z",
+      "sourceUrl": "https://apps.apple.com/gy/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "HN": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:54.567Z",
+      "sourceUrl": "https://apps.apple.com/hn/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "HR": {
+    "google": {
+      "currency": "EUR",
+      "range": "€22.00 - €275.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:34:48.270Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=HR&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:47.174Z",
+      "sourceUrl": "https://apps.apple.com/hr/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "HU": {
+    "google": {
+      "currency": "HUF",
+      "range": "7 990 HUF - 99 900 HUF if billed through Play",
+      "checkedAt": "2026-09-28T04:34:54.679Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=HU&hl=en"
+    },
+    "apple": {
+      "currency": "HUF",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "HUF8,990.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "HUF59,990.00"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "HUF99,990.00"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "HUF99,990.00"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:54.483Z",
+      "sourceUrl": "https://apps.apple.com/hu/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "ID": {
+    "google": {
+      "currency": "IDR",
+      "range": "Rp 349.000 - Rp 4.362.500 per item",
+      "checkedAt": "2026-09-28T04:34:55.514Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=ID&hl=en"
+    },
+    "apple": {
+      "currency": "IDR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "Rp 349ribu"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "Rp 1,999juta"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "Rp 3,999juta"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "Rp 3,999juta"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:55.145Z",
+      "sourceUrl": "https://apps.apple.com/id/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "IE": {
+    "google": {
+      "currency": "EUR",
+      "range": "€22.00 - €275.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:34:56.162Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=IE&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "€22.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "€149.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "€299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "€249.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:55.848Z",
+      "sourceUrl": "https://apps.apple.com/ie/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "IL": {
+    "google": {
+      "currency": "ILS",
+      "range": "₪59.99 - ₪744.99 per item",
+      "checkedAt": "2026-09-28T04:34:56.555Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=IL&hl=en"
+    },
+    "apple": {
+      "currency": "ILS",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "₪69.90"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "₪449.90"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "₪899.90"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "₪799.90"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:56.089Z",
+      "sourceUrl": "https://apps.apple.com/il/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "IN": {
+    "apple": {
+      "currency": "INR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "₹ 1,999"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "₹ 12,900"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "₹ 24,900"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "₹ 19,900"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:55.302Z",
+      "sourceUrl": "https://apps.apple.com/in/app/claude-by-anthropic/id6473753684"
+    },
+    "google": {
+      "currency": "INR",
+      "range": "₹1,999.00 - ₹24,987.50 per item",
+      "checkedAt": "2026-09-28T04:34:55.612Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=IN&hl=en"
+    }
+  },
+  "IQ": {
+    "google": {
+      "currency": "IQD",
+      "range": "IQD 26,200 - IQD 327,500 per item",
+      "checkedAt": "2026-09-28T04:34:55.667Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=IQ&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "$20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "$124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "$249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "$214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:55.409Z",
+      "sourceUrl": "https://apps.apple.com/iq/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "IS": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 25.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 149.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 249.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:55.001Z",
+      "sourceUrl": "https://apps.apple.com/is/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "IT": {
+    "google": {
+      "currency": "EUR",
+      "range": "€22.00 - €275.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:34:57.660Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=IT&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:56.358Z",
+      "sourceUrl": "https://apps.apple.com/it/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "JM": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:56.259Z",
+      "sourceUrl": "https://apps.apple.com/jm/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "JO": {
+    "google": {
+      "currency": "JOD",
+      "range": "JOD 14.150 - JOD 176.880 per item",
+      "checkedAt": "2026-09-28T04:34:58.182Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=JO&hl=en"
+    }
+  },
+  "JP": {
+    "apple": {
+      "currency": "JPY",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "¥3,000"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "¥20,000"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "¥40,000"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "¥35,000"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:56.607Z",
+      "sourceUrl": "https://apps.apple.com/jp/app/claude-by-anthropic/id6473753684"
+    },
+    "google": {
+      "currency": "JPY",
+      "range": "¥3,400 - ¥42,500 per item",
+      "checkedAt": "2026-09-28T04:34:56.847Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=JP&hl=en"
+    }
+  },
+  "KE": {
+    "google": {
+      "currency": "KES",
+      "range": "Ksh 3,000.00 - Ksh 37,500.00 per item",
+      "checkedAt": "2026-09-28T04:34:58.999Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=KE&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 25.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 149.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 249.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:58.596Z",
+      "sourceUrl": "https://apps.apple.com/ke/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "KG": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 22.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 129.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 229.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:59.090Z",
+      "sourceUrl": "https://apps.apple.com/kg/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "KH": {
+    "google": {
+      "currency": "USD",
+      "range": "$22.00 - $275.00 per item",
+      "checkedAt": "2026-09-28T04:34:44.744Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=KH&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 22.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 129.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 229.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:44.507Z",
+      "sourceUrl": "https://apps.apple.com/kh/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "KN": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:13.116Z",
+      "sourceUrl": "https://apps.apple.com/kn/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "KR": {
+    "apple": {
+      "currency": "KRW",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "￦33,000"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "￦199,000"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "￦449,000"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "￦349,000"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:16.905Z",
+      "sourceUrl": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684"
+    },
+    "google": {
+      "currency": "KRW",
+      "range": "₩30,000 - ₩375,000 per item",
+      "checkedAt": "2026-09-28T04:35:17.256Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=KR&hl=en"
+    }
+  },
+  "KW": {
+    "google": {
+      "currency": "USD",
+      "range": "$20.00 - $250.00 per item",
+      "checkedAt": "2026-09-28T04:34:58.846Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=KW&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "$20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "$124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "$249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "$214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:58.648Z",
+      "sourceUrl": "https://apps.apple.com/kw/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "KZ": {
+    "google": {
+      "currency": "KZT",
+      "range": "KZT 9,990.00 - KZT 124,875.00 per item",
+      "checkedAt": "2026-09-28T04:34:58.749Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=KZ&hl=en"
+    },
+    "apple": {
+      "currency": "KZT",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "11,990.00₸"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "69,990.00₸"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "149,990.00₸"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "129,990.00₸"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:58.517Z",
+      "sourceUrl": "https://apps.apple.com/kz/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "LA": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 22.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 129.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 229.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:00.629Z",
+      "sourceUrl": "https://apps.apple.com/la/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "LB": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "$20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "$124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "$249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "$214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:59.664Z",
+      "sourceUrl": "https://apps.apple.com/lb/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "LC": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:13.419Z",
+      "sourceUrl": "https://apps.apple.com/lc/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "LI": {
+    "google": {
+      "currency": "CHF",
+      "range": "CHF 19.00 - CHF 237.50 if billed through Play",
+      "checkedAt": "2026-09-28T04:35:01.140Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=LI&hl=en"
+    }
+  },
+  "LK": {
+    "google": {
+      "currency": "LKR",
+      "range": "LKR 6,075.00 - LKR 75,937.50 per item",
+      "checkedAt": "2026-09-28T04:35:17.979Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=LK&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:17.627Z",
+      "sourceUrl": "https://apps.apple.com/lk/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "LR": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:00.132Z",
+      "sourceUrl": "https://apps.apple.com/lr/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "LT": {
+    "google": {
+      "currency": "EUR",
+      "range": "€22.00 - €275.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:35:01.350Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=LT&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:01.165Z",
+      "sourceUrl": "https://apps.apple.com/lt/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "LU": {
+    "google": {
+      "currency": "EUR",
+      "range": "€22.00 - €275.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:35:01.950Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=LU&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:01.677Z",
+      "sourceUrl": "https://apps.apple.com/lu/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "LV": {
+    "google": {
+      "currency": "EUR",
+      "range": "€22.00 - €275.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:34:59.572Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=LV&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:59.334Z",
+      "sourceUrl": "https://apps.apple.com/lv/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "LY": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "$20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "$124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "$249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "$214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:01.808Z",
+      "sourceUrl": "https://apps.apple.com/ly/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "MA": {
+    "google": {
+      "currency": "MAD",
+      "range": "MAD 234.99 - MAD 2,937.38 per item",
+      "checkedAt": "2026-09-28T04:35:06.794Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=MA&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "$20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "$124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "$249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "$214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:06.573Z",
+      "sourceUrl": "https://apps.apple.com/ma/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "MC": {
+    "google": {
+      "currency": "EUR",
+      "range": "€22.00 - €275.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:35:04.731Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=MC&hl=en"
+    }
+  },
+  "MD": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 25.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 149.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 249.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:05.400Z",
+      "sourceUrl": "https://apps.apple.com/md/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "ME": {
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "20,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "119,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "229,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "199,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:04.656Z",
+      "sourceUrl": "https://apps.apple.com/me/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "MG": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:01.761Z",
+      "sourceUrl": "https://apps.apple.com/mg/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "MK": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:09.532Z",
+      "sourceUrl": "https://apps.apple.com/mk/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "ML": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:02.697Z",
+      "sourceUrl": "https://apps.apple.com/ml/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "MN": {
+    "google": {
+      "currency": "MNT",
+      "range": "MNT 65,842.00 - MNT 978,725.00 per item",
+      "checkedAt": "2026-09-28T04:35:05.281Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=MN&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:04.929Z",
+      "sourceUrl": "https://apps.apple.com/mn/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "MR": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "$20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "$124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "$249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "$214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:03.445Z",
+      "sourceUrl": "https://apps.apple.com/mr/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "MT": {
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:03.117Z",
+      "sourceUrl": "https://apps.apple.com/mt/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "MU": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 25.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 149.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 249.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:03.579Z",
+      "sourceUrl": "https://apps.apple.com/mu/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "MV": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:02.736Z",
+      "sourceUrl": "https://apps.apple.com/mv/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "MW": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:01.878Z",
+      "sourceUrl": "https://apps.apple.com/mw/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "MX": {
+    "google": {
+      "currency": "MXN",
+      "range": "MX$399.00 - MX$4,987.50 per item",
+      "checkedAt": "2026-09-28T04:35:04.409Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=MX&hl=en"
+    },
+    "apple": {
+      "currency": "MXN",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "$399.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "$2,499.00"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "$4,999.00"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "$4,999.00"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:03.554Z",
+      "sourceUrl": "https://apps.apple.com/mx/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "MY": {
+    "google": {
+      "currency": "MYR",
+      "range": "RM 99.90 - RM 1,248.75 per item",
+      "checkedAt": "2026-09-28T04:35:02.640Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=MY&hl=en"
+    },
+    "apple": {
+      "currency": "MYR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "RM99.90"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "RM599.90"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "RM1,199.90"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "RM999.90"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:02.438Z",
+      "sourceUrl": "https://apps.apple.com/my/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "MZ": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:05.225Z",
+      "sourceUrl": "https://apps.apple.com/mz/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "NA": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:05.664Z",
+      "sourceUrl": "https://apps.apple.com/na/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "NE": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:08.875Z",
+      "sourceUrl": "https://apps.apple.com/ne/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "NG": {
+    "google": {
+      "currency": "NGN",
+      "range": "₦33,500.00 - ₦418,750.00 per item",
+      "checkedAt": "2026-09-28T04:35:09.685Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=NG&hl=en"
+    },
+    "apple": {
+      "currency": "NGN",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "₦ 29,900.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "₦ 199,900.00"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "₦ 399,900.00"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "₦ 349,900.00"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:09.418Z",
+      "sourceUrl": "https://apps.apple.com/ng/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "NI": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:08.441Z",
+      "sourceUrl": "https://apps.apple.com/ni/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "NL": {
+    "google": {
+      "currency": "EUR",
+      "range": "€22.00 - €275.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:35:08.504Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=NL&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "€ 22,00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "€ 149,99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "€ 299,99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "€ 249,99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:07.967Z",
+      "sourceUrl": "https://apps.apple.com/nl/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "NO": {
+    "google": {
+      "currency": "NOK",
+      "range": "249,00 kr - 3 112,50 kr if billed through Play",
+      "checkedAt": "2026-09-28T04:35:11.053Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=NO&hl=en"
+    },
+    "apple": {
+      "currency": "NOK",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "249,00 kr"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "1.490,00 kr"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "2.990,00 kr"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "2.990,00 kr"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:10.132Z",
+      "sourceUrl": "https://apps.apple.com/no/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "NP": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 25.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 149.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 249.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:07.201Z",
+      "sourceUrl": "https://apps.apple.com/np/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "NR": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:06.139Z",
+      "sourceUrl": "https://apps.apple.com/nr/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "NZ": {
+    "google": {
+      "currency": "NZD",
+      "range": "$40.00 - $500.00 per item",
+      "checkedAt": "2026-09-28T04:35:09.987Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=NZ&hl=en"
+    },
+    "apple": {
+      "currency": "NZD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "$40.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "$229.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "$499.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "$399.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:09.775Z",
+      "sourceUrl": "https://apps.apple.com/nz/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "OM": {
+    "google": {
+      "currency": "USD",
+      "range": "$20.00 - $250.00 per item",
+      "checkedAt": "2026-09-28T04:35:10.399Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=OM&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "$20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "$124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "$249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "$214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:10.074Z",
+      "sourceUrl": "https://apps.apple.com/om/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "PA": {
+    "google": {
+      "currency": "USD",
+      "range": "$20.00 - $250.00 per item",
+      "checkedAt": "2026-09-28T04:35:11.511Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=PA&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:11.246Z",
+      "sourceUrl": "https://apps.apple.com/pa/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "PE": {
+    "google": {
+      "currency": "PEN",
+      "range": "PEN 79.90 - PEN 998.75 per item",
+      "checkedAt": "2026-09-28T04:35:12.015Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=PE&hl=en"
+    },
+    "apple": {
+      "currency": "PEN",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "S/ 89.90"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "S/ 599.90"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "S/ 999.90"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "S/ 999.90"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:11.762Z",
+      "sourceUrl": "https://apps.apple.com/pe/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "PG": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:11.182Z",
+      "sourceUrl": "https://apps.apple.com/pg/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "PH": {
+    "google": {
+      "currency": "PHP",
+      "range": "₱1,300.00 - ₱16,250.00 per item",
+      "checkedAt": "2026-09-28T04:35:12.240Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=PH&hl=en"
+    },
+    "apple": {
+      "currency": "PHP",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "₱ 1,290.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "₱ 7,990.00"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "₱ 14,990.00"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "₱ 12,990.00"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:11.935Z",
+      "sourceUrl": "https://apps.apple.com/ph/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "PK": {
+    "google": {
+      "currency": "PKR",
+      "range": "Rs 4,900.00 - Rs 61,250.00 per item",
+      "checkedAt": "2026-09-28T04:35:10.749Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=PK&hl=en"
+    },
+    "apple": {
+      "currency": "PKR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "Rs 4,900.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "Rs 34,900.00"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "Rs 69,900.00"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "Rs 59,900.00"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:10.275Z",
+      "sourceUrl": "https://apps.apple.com/pk/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "PL": {
+    "google": {
+      "currency": "PLN",
+      "range": "89,99 PLN - 1.140,00 PLN if billed through Play",
+      "checkedAt": "2026-09-28T04:35:12.359Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=PL&hl=en"
+    },
+    "apple": {
+      "currency": "PLN",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "99,99 zł"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "599,99 zł"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "999,99 zł"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "999,99 zł"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:12.161Z",
+      "sourceUrl": "https://apps.apple.com/pl/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "PT": {
+    "google": {
+      "currency": "EUR",
+      "range": "€22.00 - €275.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:35:13.712Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=PT&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:12.624Z",
+      "sourceUrl": "https://apps.apple.com/pt/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "PW": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:10.404Z",
+      "sourceUrl": "https://apps.apple.com/pw/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "PY": {
+    "google": {
+      "currency": "PYG",
+      "range": "PYG 150,000 - PYG 1,875,000 per item",
+      "checkedAt": "2026-09-28T04:35:12.087Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=PY&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:11.620Z",
+      "sourceUrl": "https://apps.apple.com/py/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "QA": {
+    "google": {
+      "currency": "QAR",
+      "range": "QAR 69.99 - QAR 874.88 per item",
+      "checkedAt": "2026-09-28T04:35:12.737Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=QA&hl=en"
+    },
+    "apple": {
+      "currency": "QAR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "QAR 69.99"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "QAR 499.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "QAR 999.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "QAR 799.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:12.490Z",
+      "sourceUrl": "https://apps.apple.com/qa/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "RO": {
+    "google": {
+      "currency": "RON",
+      "range": "99,99 RON - 1.249,88 RON if billed through Play",
+      "checkedAt": "2026-09-28T04:35:14.263Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=RO&hl=en"
+    },
+    "apple": {
+      "currency": "RON",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "99,99 lei"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "699,99 lei"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "1 299,99 lei"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "1 199,99 lei"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:12.626Z",
+      "sourceUrl": "https://apps.apple.com/ro/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "RS": {
+    "google": {
+      "currency": "RSD",
+      "range": "RSD 2,599 - RSD 32,488 per item",
+      "checkedAt": "2026-09-28T04:35:15.320Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=RS&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:15.044Z",
+      "sourceUrl": "https://apps.apple.com/rs/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "RW": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:12.812Z",
+      "sourceUrl": "https://apps.apple.com/rw/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "SA": {
+    "google": {
+      "currency": "SAR",
+      "range": "SAR 89.99 - SAR 1,124.88 per item",
+      "checkedAt": "2026-09-28T04:35:14.898Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=SA&hl=en"
+    },
+    "apple": {
+      "currency": "SAR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "SAR 89.99"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "SAR 499.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "SAR 999.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "SAR 999.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:14.710Z",
+      "sourceUrl": "https://apps.apple.com/sa/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "SB": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:16.418Z",
+      "sourceUrl": "https://apps.apple.com/sb/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "SC": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:16.780Z",
+      "sourceUrl": "https://apps.apple.com/sc/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "SE": {
+    "google": {
+      "currency": "SEK",
+      "range": "249,00 kr - 3 112,50 kr if billed through Play",
+      "checkedAt": "2026-09-28T04:35:18.804Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=SE&hl=en"
+    },
+    "apple": {
+      "currency": "SEK",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "249,00 kr"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "1 495,00 kr"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "2 995,00 kr"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "2 995,00 kr"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:18.581Z",
+      "sourceUrl": "https://apps.apple.com/se/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "SG": {
+    "apple": {
+      "currency": "SGD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "S$ 29.98"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "S$ 179.98"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "S$ 349.98"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "S$ 299.98"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:15.776Z",
+      "sourceUrl": "https://apps.apple.com/sg/app/claude-by-anthropic/id6473753684"
+    },
+    "google": {
+      "currency": "SGD",
+      "range": "$29.98 - $374.75 per item",
+      "checkedAt": "2026-09-28T04:35:15.983Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=SG&hl=en"
+    }
+  },
+  "SI": {
+    "google": {
+      "currency": "EUR",
+      "range": "€22.00 - €275.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:35:16.506Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=SI&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:16.124Z",
+      "sourceUrl": "https://apps.apple.com/si/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "SK": {
+    "google": {
+      "currency": "EUR",
+      "range": "€22.00 - €275.00 if billed through Play",
+      "checkedAt": "2026-09-28T04:35:16.057Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=SK&hl=en"
+    },
+    "apple": {
+      "currency": "EUR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "22,00 €"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 €"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 €"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 €"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:15.615Z",
+      "sourceUrl": "https://apps.apple.com/sk/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "SL": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:15.481Z",
+      "sourceUrl": "https://apps.apple.com/sl/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "SM": {
+    "google": {
+      "currency": "EUR",
+      "range": "€18.99 - €237.38 if billed through Play",
+      "checkedAt": "2026-09-28T04:35:14.656Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=SM&hl=en"
+    }
+  },
+  "SN": {
+    "google": {
+      "currency": "XOF",
+      "range": "F CFA 12,281 - F CFA 153,512 per item",
+      "checkedAt": "2026-09-28T04:35:15.265Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=SN&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 25.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 149.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 249.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:14.791Z",
+      "sourceUrl": "https://apps.apple.com/sn/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "SR": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 22.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 129.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 229.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:17.858Z",
+      "sourceUrl": "https://apps.apple.com/sr/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "ST": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:14.468Z",
+      "sourceUrl": "https://apps.apple.com/st/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "SV": {
+    "google": {
+      "currency": "USD",
+      "range": "$20.00 - $250.00 per item",
+      "checkedAt": "2026-09-28T04:34:49.916Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=SV&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:49.721Z",
+      "sourceUrl": "https://apps.apple.com/sv/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "SZ": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:50.454Z",
+      "sourceUrl": "https://apps.apple.com/sz/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "TD": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:34:45.259Z",
+      "sourceUrl": "https://apps.apple.com/td/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "TH": {
+    "apple": {
+      "currency": "THB",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "฿699.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "฿4,990.00"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "฿9,990.00"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "฿7,990.00"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:19.457Z",
+      "sourceUrl": "https://apps.apple.com/th/app/claude-by-anthropic/id6473753684"
+    },
+    "google": {
+      "currency": "THB",
+      "range": "THB 799.00 - THB 9,987.50 per item",
+      "checkedAt": "2026-09-28T04:35:19.782Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=TH&hl=en"
+    }
+  },
+  "TJ": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 22.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 129.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 229.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:18.985Z",
+      "sourceUrl": "https://apps.apple.com/tj/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "TM": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:20.811Z",
+      "sourceUrl": "https://apps.apple.com/tm/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "TN": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "$20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "$124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "$249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "$214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:20.699Z",
+      "sourceUrl": "https://apps.apple.com/tn/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "TO": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:20.151Z",
+      "sourceUrl": "https://apps.apple.com/to/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "TR": {
+    "google": {
+      "currency": "TRY",
+      "range": "TRY 999.99 - TRY 12,999.99 per item",
+      "checkedAt": "2026-09-28T04:35:21.804Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=TR&hl=en"
+    },
+    "apple": {
+      "currency": "TRY",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "₺999,99"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "₺6.999,99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "₺12.999,99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "₺11.999,99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:20.759Z",
+      "sourceUrl": "https://apps.apple.com/tr/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "TT": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:20.565Z",
+      "sourceUrl": "https://apps.apple.com/tt/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "TW": {
+    "apple": {
+      "currency": "TWD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "$690.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "$3,990.00"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "$7,990.00"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "$6,990.00"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:18.499Z",
+      "sourceUrl": "https://apps.apple.com/tw/app/claude-by-anthropic/id6473753684"
+    },
+    "google": {
+      "currency": "TWD",
+      "range": "NT$690.00 - NT$8,625.00 per item",
+      "checkedAt": "2026-09-28T04:35:18.693Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=TW&hl=en"
+    }
+  },
+  "TZ": {
+    "google": {
+      "currency": "TZS",
+      "range": "TSh 59,900.00 - TSh 748,750.00 per item",
+      "checkedAt": "2026-09-28T04:35:19.688Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=TZ&hl=en"
+    },
+    "apple": {
+      "currency": "TZS",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "59,900.00 TZS"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "349,900.00 TZS"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "699,900.00 TZS"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "599,900.00 TZS"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:19.250Z",
+      "sourceUrl": "https://apps.apple.com/tz/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "UA": {
+    "google": {
+      "currency": "UAH",
+      "range": "979,99 UAH - 12 249,88 UAH per item",
+      "checkedAt": "2026-09-28T04:35:22.879Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=UA&hl=en"
+    },
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "25,00 USD"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "149,99 USD"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "299,99 USD"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "249,99 USD"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:21.446Z",
+      "sourceUrl": "https://apps.apple.com/ua/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "UG": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 25.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 149.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 249.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:21.506Z",
+      "sourceUrl": "https://apps.apple.com/ug/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "US": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "$20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "$124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "$249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "$214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:22.096Z",
+      "sourceUrl": "https://apps.apple.com/us/app/claude-by-anthropic/id6473753684"
+    },
+    "google": {
+      "currency": "USD",
+      "range": "$20.00 - $279.99 per item",
+      "checkedAt": "2026-09-28T04:35:22.286Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=US&hl=en"
+    }
+  },
+  "UY": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:22.820Z",
+      "sourceUrl": "https://apps.apple.com/uy/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "UZ": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 22.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 129.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 229.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:22.739Z",
+      "sourceUrl": "https://apps.apple.com/uz/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "VA": {
+    "google": {
+      "currency": "EUR",
+      "range": "€18.99 - €237.38 if billed through Play",
+      "checkedAt": "2026-09-28T04:35:23.525Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=VA&hl=en"
+    }
+  },
+  "VC": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:13.783Z",
+      "sourceUrl": "https://apps.apple.com/vc/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "VN": {
+    "google": {
+      "currency": "VND",
+      "range": "₫499,000 - ₫6,237,500 per item",
+      "checkedAt": "2026-09-28T04:35:23.848Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=VN&hl=en"
+    },
+    "apple": {
+      "currency": "VND",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "599.000đ"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "3.999.000đ"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "7.999.000đ"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "6.999.000đ"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:23.467Z",
+      "sourceUrl": "https://apps.apple.com/vn/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "VU": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 20.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 124.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 249.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 214.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:23.366Z",
+      "sourceUrl": "https://apps.apple.com/vu/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "ZA": {
+    "apple": {
+      "currency": "ZAR",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "R399.99"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "R2,499.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "R4,999.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "R4,499.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:16.866Z",
+      "sourceUrl": "https://apps.apple.com/za/app/claude-by-anthropic/id6473753684"
+    },
+    "google": {
+      "currency": "ZAR",
+      "range": "R 399,99 - R 4 999,88 per item",
+      "checkedAt": "2026-09-28T04:35:17.144Z",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=ZA&hl=en"
+    }
+  },
+  "ZM": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 25.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 149.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 249.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:23.637Z",
+      "sourceUrl": "https://apps.apple.com/zm/app/claude-by-anthropic/id6473753684"
+    }
+  },
+  "ZW": {
+    "apple": {
+      "currency": "USD",
+      "items": [
+        {
+          "plan": "Pro",
+          "period": "monthly",
+          "displayPrice": "USD 25.00"
+        },
+        {
+          "plan": "Max 5x",
+          "period": "monthly",
+          "displayPrice": "USD 149.99"
+        },
+        {
+          "plan": "Max 20x",
+          "period": "monthly",
+          "displayPrice": "USD 299.99"
+        },
+        {
+          "plan": "Pro",
+          "period": "annual",
+          "displayPrice": "USD 249.99"
+        }
+      ],
+      "checkedAt": "2026-09-28T04:35:23.998Z",
+      "sourceUrl": "https://apps.apple.com/zw/app/claude-by-anthropic/id6473753684"
+    }
+  }
+}
