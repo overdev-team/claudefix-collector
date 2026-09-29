@@ -99,13 +99,14 @@ jobs:
           cp src/data/fx.json /tmp/claudefix-target/src/data/fx.json
 
           cd /tmp/claudefix-target
-          if git diff --quiet -- src/data/prices.json src/data/fx.json; then
+          python3 scripts/record_price_changes.py
+          if git diff --quiet -- src/data/prices.json src/data/fx.json src/data/price-changes.json; then
             echo "Private claudefix repository already up to date."
           else
             echo "Syncing updated pricing data to overdev-team/claudefix..."
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add src/data/prices.json src/data/fx.json
+            git add src/data/prices.json src/data/fx.json src/data/price-changes.json
             git commit -m "chore(data): auto-sync latest store prices and exchange rates "
             git push origin main
             echo "Successfully synced to overdev-team/claudefix!"
