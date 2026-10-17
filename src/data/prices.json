@@ -3,7 +3,7 @@
     "google": {
       "currency": "AED",
       "range": "AED 79.99 - AED 999.88 per item",
-      "checkedAt": "2026-10-16T08:08:03.976Z",
+      "checkedAt": "2026-10-17T07:45:17.040Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=AE&hl=en"
     },
     "apple": {
@@ -30,7 +30,7 @@
           "displayPrice": "AED 799.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:03.732Z",
+      "checkedAt": "2026-10-17T07:45:16.684Z",
       "sourceUrl": "https://apps.apple.com/ae/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -59,7 +59,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:24.368Z",
+      "checkedAt": "2026-10-17T07:44:38.145Z",
       "sourceUrl": "https://apps.apple.com/ag/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -88,7 +88,7 @@
           "displayPrice": "USD 249.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:23.575Z",
+      "checkedAt": "2026-10-17T07:44:37.610Z",
       "sourceUrl": "https://apps.apple.com/al/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -117,7 +117,7 @@
           "displayPrice": "USD 249.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:24.462Z",
+      "checkedAt": "2026-10-17T07:44:38.273Z",
       "sourceUrl": "https://apps.apple.com/am/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -146,7 +146,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:23.655Z",
+      "checkedAt": "2026-10-17T07:44:37.549Z",
       "sourceUrl": "https://apps.apple.com/ao/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -175,13 +175,13 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:24.719Z",
+      "checkedAt": "2026-10-17T07:44:38.440Z",
       "sourceUrl": "https://apps.apple.com/ar/app/claude-by-anthropic/id6473753684"
     },
     "google": {
       "currency": "ARS",
       "range": "ARS 29,900.00 - ARS 373,750.00 per item",
-      "checkedAt": "2026-10-16T08:07:24.981Z",
+      "checkedAt": "2026-10-17T07:44:38.758Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=AR&hl=en"
     }
   },
@@ -189,7 +189,7 @@
     "google": {
       "currency": "EUR",
       "range": "€ 22,00 - € 275,00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:25.608Z",
+      "checkedAt": "2026-10-17T07:44:39.757Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=AT&hl=en"
     },
     "apple": {
@@ -216,7 +216,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:25.331Z",
+      "checkedAt": "2026-10-17T07:44:39.381Z",
       "sourceUrl": "https://apps.apple.com/at/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -245,13 +245,13 @@
           "displayPrice": "$349.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:24.834Z",
+      "checkedAt": "2026-10-17T07:44:38.935Z",
       "sourceUrl": "https://apps.apple.com/au/app/claude-by-anthropic/id6473753684"
     },
     "google": {
       "currency": "AUD",
       "range": "$33.99 - $424.88 per item",
-      "checkedAt": "2026-10-16T08:07:25.096Z",
+      "checkedAt": "2026-10-17T07:44:39.123Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=AU&hl=en"
     }
   },
@@ -280,13 +280,13 @@
           "displayPrice": "USD 249.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:25.196Z",
+      "checkedAt": "2026-10-17T07:44:39.044Z",
       "sourceUrl": "https://apps.apple.com/az/app/claude-by-anthropic/id6473753684"
     },
     "google": {
       "currency": "AZN",
       "range": "AZN 34.00 - AZN 425.00 per item",
-      "checkedAt": "2026-10-16T08:07:25.463Z",
+      "checkedAt": "2026-10-17T07:44:39.308Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=AZ&hl=en"
     }
   },
@@ -315,7 +315,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:27.520Z",
+      "checkedAt": "2026-10-17T07:44:41.425Z",
       "sourceUrl": "https://apps.apple.com/ba/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -344,7 +344,7 @@
           "displayPrice": "USD 249.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:26.124Z",
+      "checkedAt": "2026-10-17T07:44:40.230Z",
       "sourceUrl": "https://apps.apple.com/bb/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -352,7 +352,7 @@
     "google": {
       "currency": "BDT",
       "range": "BDT 2,700.00 - BDT 33,750.00 per item",
-      "checkedAt": "2026-10-16T08:07:26.241Z",
+      "checkedAt": "2026-10-17T07:44:40.404Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=BD&hl=en"
     }
   },
@@ -360,7 +360,7 @@
     "google": {
       "currency": "EUR",
       "range": "€22.00 - €275.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:26.840Z",
+      "checkedAt": "2026-10-17T07:44:40.906Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=BE&hl=en"
     },
     "apple": {
@@ -387,7 +387,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:26.520Z",
+      "checkedAt": "2026-10-17T07:44:40.539Z",
       "sourceUrl": "https://apps.apple.com/be/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -416,7 +416,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:28.653Z",
+      "checkedAt": "2026-10-17T07:44:42.541Z",
       "sourceUrl": "https://apps.apple.com/bf/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -424,7 +424,7 @@
     "google": {
       "currency": "EUR",
       "range": "€20.45 - €255.58 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:29.193Z",
+      "checkedAt": "2026-10-17T07:44:42.401Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=BG&hl=en"
     },
     "apple": {
@@ -451,7 +451,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:28.891Z",
+      "checkedAt": "2026-10-17T07:44:42.169Z",
       "sourceUrl": "https://apps.apple.com/bg/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -459,7 +459,7 @@
     "google": {
       "currency": "USD",
       "range": "$22.00 - $275.00 per item",
-      "checkedAt": "2026-10-16T08:07:26.021Z",
+      "checkedAt": "2026-10-17T07:44:40.716Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=BH&hl=en"
     },
     "apple": {
@@ -486,7 +486,7 @@
           "displayPrice": "$229.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:25.737Z",
+      "checkedAt": "2026-10-17T07:44:39.703Z",
       "sourceUrl": "https://apps.apple.com/bh/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -515,7 +515,7 @@
           "displayPrice": "USD 249.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:26.694Z",
+      "checkedAt": "2026-10-17T07:44:41.085Z",
       "sourceUrl": "https://apps.apple.com/bj/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -544,7 +544,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:28.296Z",
+      "checkedAt": "2026-10-17T07:44:42.224Z",
       "sourceUrl": "https://apps.apple.com/bn/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -552,7 +552,7 @@
     "google": {
       "currency": "BOB",
       "range": "BOB 240.00 - BOB 2,975.00 per item",
-      "checkedAt": "2026-10-16T08:07:27.678Z",
+      "checkedAt": "2026-10-17T07:44:41.775Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=BO&hl=en"
     },
     "apple": {
@@ -579,7 +579,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:27.439Z",
+      "checkedAt": "2026-10-17T07:44:41.518Z",
       "sourceUrl": "https://apps.apple.com/bo/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -608,13 +608,13 @@
           "displayPrice": "R$ 1.299,90"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:27.846Z",
+      "checkedAt": "2026-10-17T07:44:41.892Z",
       "sourceUrl": "https://apps.apple.com/br/app/claude-by-anthropic/id6473753684"
     },
     "google": {
       "currency": "BRL",
       "range": "R$110.00 - R$1,375.00 per item",
-      "checkedAt": "2026-10-16T08:07:28.069Z",
+      "checkedAt": "2026-10-17T07:44:42.113Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=BR&hl=en"
     }
   },
@@ -643,7 +643,7 @@
           "displayPrice": "USD 229.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:25.549Z",
+      "checkedAt": "2026-10-17T07:44:39.541Z",
       "sourceUrl": "https://apps.apple.com/bs/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -672,7 +672,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:26.951Z",
+      "checkedAt": "2026-10-17T07:44:41.370Z",
       "sourceUrl": "https://apps.apple.com/bt/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -701,7 +701,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:27.937Z",
+      "checkedAt": "2026-10-17T07:44:41.721Z",
       "sourceUrl": "https://apps.apple.com/bw/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -730,7 +730,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:26.765Z",
+      "checkedAt": "2026-10-17T07:44:40.975Z",
       "sourceUrl": "https://apps.apple.com/bz/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -759,13 +759,13 @@
           "displayPrice": "$299.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:29.835Z",
+      "checkedAt": "2026-10-17T07:44:44.085Z",
       "sourceUrl": "https://apps.apple.com/ca/app/claude-by-anthropic/id6473753684"
     },
     "google": {
       "currency": "CAD",
       "range": "$28.00 - $350.00 per item",
-      "checkedAt": "2026-10-16T08:07:30.121Z",
+      "checkedAt": "2026-10-17T07:44:44.439Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=CA&hl=en"
     }
   },
@@ -794,7 +794,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:31.213Z",
+      "checkedAt": "2026-10-17T07:44:45.564Z",
       "sourceUrl": "https://apps.apple.com/cd/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -823,7 +823,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:31.579Z",
+      "checkedAt": "2026-10-17T07:44:45.517Z",
       "sourceUrl": "https://apps.apple.com/cg/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -831,7 +831,7 @@
     "google": {
       "currency": "CHF",
       "range": "CHF 20.00 - CHF 250.00 per item",
-      "checkedAt": "2026-10-16T08:08:00.738Z",
+      "checkedAt": "2026-10-17T07:45:13.658Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=CH&hl=en"
     },
     "apple": {
@@ -858,7 +858,7 @@
           "displayPrice": "CHF 200.00"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:00.403Z",
+      "checkedAt": "2026-10-17T07:45:13.437Z",
       "sourceUrl": "https://apps.apple.com/ch/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -866,7 +866,7 @@
     "google": {
       "currency": "XOF",
       "range": "F CFA 12,281 - F CFA 153,512 per item",
-      "checkedAt": "2026-10-16T08:07:32.016Z",
+      "checkedAt": "2026-10-17T07:44:46.481Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=CI&hl=en"
     },
     "apple": {
@@ -893,7 +893,7 @@
           "displayPrice": "249,99 $US"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:31.735Z",
+      "checkedAt": "2026-10-17T07:44:46.148Z",
       "sourceUrl": "https://apps.apple.com/ci/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -922,13 +922,13 @@
           "displayPrice": "$249.990"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:30.780Z",
+      "checkedAt": "2026-10-17T07:44:44.928Z",
       "sourceUrl": "https://apps.apple.com/cl/app/claude-by-anthropic/id6473753684"
     },
     "google": {
       "currency": "CLP",
       "range": "CLP 19,990 - CLP 249,875 per item",
-      "checkedAt": "2026-10-16T08:07:31.162Z",
+      "checkedAt": "2026-10-17T07:44:45.170Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=CL&hl=en"
     }
   },
@@ -936,7 +936,7 @@
     "google": {
       "currency": "XAF",
       "range": "FCFA 13,490 - FCFA 169,900 per item",
-      "checkedAt": "2026-10-16T08:07:30.026Z",
+      "checkedAt": "2026-10-17T07:44:43.505Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=CM&hl=en"
     },
     "apple": {
@@ -963,7 +963,7 @@
           "displayPrice": "249,99 $US"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:29.645Z",
+      "checkedAt": "2026-10-17T07:44:43.322Z",
       "sourceUrl": "https://apps.apple.com/cm/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -971,7 +971,7 @@
     "google": {
       "currency": "COP",
       "range": "COP 63,490 - COP 789,900 per item",
-      "checkedAt": "2026-10-16T08:07:30.976Z",
+      "checkedAt": "2026-10-17T07:44:45.455Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=CO&hl=en"
     },
     "apple": {
@@ -998,7 +998,7 @@
           "displayPrice": "$ 999.900,00"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:30.706Z",
+      "checkedAt": "2026-10-17T07:44:45.280Z",
       "sourceUrl": "https://apps.apple.com/co/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1006,7 +1006,7 @@
     "google": {
       "currency": "CRC",
       "range": "CRC 10,600.00 - CRC 132,500.00 per item",
-      "checkedAt": "2026-10-16T08:07:32.137Z",
+      "checkedAt": "2026-10-17T07:44:46.290Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=CR&hl=en"
     },
     "apple": {
@@ -1033,7 +1033,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:31.828Z",
+      "checkedAt": "2026-10-17T07:44:46.060Z",
       "sourceUrl": "https://apps.apple.com/cr/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1062,7 +1062,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:29.125Z",
+      "checkedAt": "2026-10-17T07:44:42.969Z",
       "sourceUrl": "https://apps.apple.com/cv/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1070,7 +1070,7 @@
     "google": {
       "currency": "EUR",
       "range": "€22.00 - €275.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:32.609Z",
+      "checkedAt": "2026-10-17T07:44:46.618Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=CY&hl=en"
     },
     "apple": {
@@ -1097,7 +1097,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:32.378Z",
+      "checkedAt": "2026-10-17T07:44:46.349Z",
       "sourceUrl": "https://apps.apple.com/cy/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1105,7 +1105,7 @@
     "google": {
       "currency": "CZK",
       "range": "499,00 CZK - 6 237,50 CZK if billed through Play",
-      "checkedAt": "2026-10-16T08:07:32.842Z",
+      "checkedAt": "2026-10-17T07:44:46.919Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=CZ&hl=en"
     },
     "apple": {
@@ -1132,7 +1132,7 @@
           "displayPrice": "5 990,00 Kč"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:32.442Z",
+      "checkedAt": "2026-10-17T07:44:46.676Z",
       "sourceUrl": "https://apps.apple.com/cz/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1161,13 +1161,13 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:36.910Z",
+      "checkedAt": "2026-10-17T07:44:50.818Z",
       "sourceUrl": "https://apps.apple.com/de/app/claude-by-anthropic/id6473753684"
     },
     "google": {
       "currency": "EUR",
       "range": "€22.00 - €275.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:37.147Z",
+      "checkedAt": "2026-10-17T07:44:51.158Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=DE&hl=en"
     }
   },
@@ -1175,7 +1175,7 @@
     "google": {
       "currency": "DKK",
       "range": "159,99 kr. - 1.990,00 kr. if billed through Play",
-      "checkedAt": "2026-10-16T08:07:33.314Z",
+      "checkedAt": "2026-10-17T07:44:47.244Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=DK&hl=en"
     },
     "apple": {
@@ -1202,7 +1202,7 @@
           "displayPrice": "1.999,00 kr"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:32.939Z",
+      "checkedAt": "2026-10-17T07:44:47.012Z",
       "sourceUrl": "https://apps.apple.com/dk/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1231,7 +1231,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:33.119Z",
+      "checkedAt": "2026-10-17T07:44:47.099Z",
       "sourceUrl": "https://apps.apple.com/dm/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1260,7 +1260,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:33.449Z",
+      "checkedAt": "2026-10-17T07:44:47.414Z",
       "sourceUrl": "https://apps.apple.com/do/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1268,7 +1268,7 @@
     "google": {
       "currency": "DZD",
       "range": "DZD 2,675.00 - DZD 33,437.50 per item",
-      "checkedAt": "2026-10-16T08:07:24.038Z",
+      "checkedAt": "2026-10-17T07:44:37.877Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=DZ&hl=en"
     },
     "apple": {
@@ -1295,7 +1295,7 @@
           "displayPrice": "$214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:23.699Z",
+      "checkedAt": "2026-10-17T07:44:37.482Z",
       "sourceUrl": "https://apps.apple.com/dz/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1303,7 +1303,7 @@
     "google": {
       "currency": "USD",
       "range": "$20.00 - $250.00 per item",
-      "checkedAt": "2026-10-16T08:07:34.060Z",
+      "checkedAt": "2026-10-17T07:44:48.231Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=EC&hl=en"
     },
     "apple": {
@@ -1330,7 +1330,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:33.787Z",
+      "checkedAt": "2026-10-17T07:44:47.801Z",
       "sourceUrl": "https://apps.apple.com/ec/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1338,7 +1338,7 @@
     "google": {
       "currency": "EUR",
       "range": "€22.00 - €275.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:34.932Z",
+      "checkedAt": "2026-10-17T07:44:48.841Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=EE&hl=en"
     },
     "apple": {
@@ -1365,7 +1365,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:34.696Z",
+      "checkedAt": "2026-10-17T07:44:48.564Z",
       "sourceUrl": "https://apps.apple.com/ee/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1373,7 +1373,7 @@
     "google": {
       "currency": "EGP",
       "range": "EGP 1,099.99 - EGP 13,749.88 per item",
-      "checkedAt": "2026-10-16T08:07:34.167Z",
+      "checkedAt": "2026-10-17T07:44:47.893Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=EG&hl=en"
     },
     "apple": {
@@ -1400,7 +1400,7 @@
           "displayPrice": "EGP 9,999.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:33.879Z",
+      "checkedAt": "2026-10-17T07:44:47.730Z",
       "sourceUrl": "https://apps.apple.com/eg/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1408,7 +1408,7 @@
     "google": {
       "currency": "EUR",
       "range": "€22.00 - €275.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:59.640Z",
+      "checkedAt": "2026-10-17T07:45:12.614Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=ES&hl=en"
     },
     "apple": {
@@ -1435,7 +1435,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:59.296Z",
+      "checkedAt": "2026-10-17T07:45:12.408Z",
       "sourceUrl": "https://apps.apple.com/es/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1443,7 +1443,7 @@
     "google": {
       "currency": "EUR",
       "range": "€22.00 - €275.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:35.896Z",
+      "checkedAt": "2026-10-17T07:44:49.658Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=FI&hl=en"
     },
     "apple": {
@@ -1470,7 +1470,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:35.634Z",
+      "checkedAt": "2026-10-17T07:44:49.444Z",
       "sourceUrl": "https://apps.apple.com/fi/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1499,7 +1499,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:35.250Z",
+      "checkedAt": "2026-10-17T07:44:49.294Z",
       "sourceUrl": "https://apps.apple.com/fj/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1507,7 +1507,7 @@
     "google": {
       "currency": "USD",
       "range": "US$20.00 - US$250.00 per item",
-      "checkedAt": "2026-10-16T08:07:47.590Z",
+      "checkedAt": "2026-10-17T07:45:00.962Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=FM&hl=en"
     },
     "apple": {
@@ -1534,7 +1534,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:47.349Z",
+      "checkedAt": "2026-10-17T07:45:00.724Z",
       "sourceUrl": "https://apps.apple.com/fm/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1542,7 +1542,7 @@
     "google": {
       "currency": "EUR",
       "range": "€22.00 - €275.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:36.356Z",
+      "checkedAt": "2026-10-17T07:44:49.413Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=FR&hl=en"
     },
     "apple": {
@@ -1569,7 +1569,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:36.042Z",
+      "checkedAt": "2026-10-17T07:44:49.082Z",
       "sourceUrl": "https://apps.apple.com/fr/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1598,7 +1598,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:35.991Z",
+      "checkedAt": "2026-10-17T07:44:49.602Z",
       "sourceUrl": "https://apps.apple.com/ga/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1627,13 +1627,13 @@
           "displayPrice": "£199.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:04.236Z",
+      "checkedAt": "2026-10-17T07:45:17.199Z",
       "sourceUrl": "https://apps.apple.com/gb/app/claude-by-anthropic/id6473753684"
     },
     "google": {
       "currency": "GBP",
       "range": "£18.00 - £225.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:08:04.552Z",
+      "checkedAt": "2026-10-17T07:45:17.451Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=GB&hl=en"
     }
   },
@@ -1662,7 +1662,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:37.194Z",
+      "checkedAt": "2026-10-17T07:44:51.392Z",
       "sourceUrl": "https://apps.apple.com/gd/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1670,7 +1670,7 @@
     "google": {
       "currency": "GEL",
       "range": "69,00 ₾ - 862,50 ₾ per item",
-      "checkedAt": "2026-10-16T08:07:36.564Z",
+      "checkedAt": "2026-10-17T07:44:50.191Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=GE&hl=en"
     },
     "apple": {
@@ -1697,7 +1697,7 @@
           "displayPrice": "USD 249.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:36.317Z",
+      "checkedAt": "2026-10-17T07:44:49.926Z",
       "sourceUrl": "https://apps.apple.com/ge/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1705,7 +1705,7 @@
     "google": {
       "currency": "GHS",
       "range": "GH₵254.99 - GH₵3,190.00 per item",
-      "checkedAt": "2026-10-16T08:07:37.337Z",
+      "checkedAt": "2026-10-17T07:44:51.209Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=GH&hl=en"
     },
     "apple": {
@@ -1732,7 +1732,7 @@
           "displayPrice": "USD 249.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:37.028Z",
+      "checkedAt": "2026-10-17T07:44:50.527Z",
       "sourceUrl": "https://apps.apple.com/gh/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1761,7 +1761,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:36.140Z",
+      "checkedAt": "2026-10-17T07:44:49.807Z",
       "sourceUrl": "https://apps.apple.com/gm/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1769,7 +1769,7 @@
     "google": {
       "currency": "EUR",
       "range": "€22.00 - €275.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:37.291Z",
+      "checkedAt": "2026-10-17T07:44:51.592Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=GR&hl=en"
     },
     "apple": {
@@ -1796,7 +1796,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:36.990Z",
+      "checkedAt": "2026-10-17T07:44:51.102Z",
       "sourceUrl": "https://apps.apple.com/gr/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1825,7 +1825,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:37.921Z",
+      "checkedAt": "2026-10-17T07:44:51.779Z",
       "sourceUrl": "https://apps.apple.com/gt/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1854,7 +1854,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:38.049Z",
+      "checkedAt": "2026-10-17T07:44:52.055Z",
       "sourceUrl": "https://apps.apple.com/gw/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1883,7 +1883,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:38.033Z",
+      "checkedAt": "2026-10-17T07:44:52.180Z",
       "sourceUrl": "https://apps.apple.com/gy/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1912,7 +1912,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:38.912Z",
+      "checkedAt": "2026-10-17T07:44:52.466Z",
       "sourceUrl": "https://apps.apple.com/hn/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1920,7 +1920,7 @@
     "google": {
       "currency": "EUR",
       "range": "€22.00 - €275.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:32.275Z",
+      "checkedAt": "2026-10-17T07:44:46.233Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=HR&hl=en"
     },
     "apple": {
@@ -1947,7 +1947,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:32.030Z",
+      "checkedAt": "2026-10-17T07:44:46.000Z",
       "sourceUrl": "https://apps.apple.com/hr/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1955,7 +1955,7 @@
     "google": {
       "currency": "HUF",
       "range": "7 990 HUF - 99 900 HUF if billed through Play",
-      "checkedAt": "2026-10-16T08:07:39.019Z",
+      "checkedAt": "2026-10-17T07:44:53.361Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=HU&hl=en"
     },
     "apple": {
@@ -1982,7 +1982,7 @@
           "displayPrice": "HUF99,990.00"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:38.752Z",
+      "checkedAt": "2026-10-17T07:44:52.599Z",
       "sourceUrl": "https://apps.apple.com/hu/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -1990,7 +1990,7 @@
     "google": {
       "currency": "IDR",
       "range": "Rp 349.000 - Rp 4.362.500 per item",
-      "checkedAt": "2026-10-16T08:07:40.008Z",
+      "checkedAt": "2026-10-17T07:44:54.379Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=ID&hl=en"
     },
     "apple": {
@@ -2017,7 +2017,7 @@
           "displayPrice": "Rp 3,999juta"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:39.618Z",
+      "checkedAt": "2026-10-17T07:44:53.704Z",
       "sourceUrl": "https://apps.apple.com/id/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2025,7 +2025,7 @@
     "google": {
       "currency": "EUR",
       "range": "€22.00 - €275.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:40.386Z",
+      "checkedAt": "2026-10-17T07:44:55.444Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=IE&hl=en"
     },
     "apple": {
@@ -2052,7 +2052,7 @@
           "displayPrice": "€249.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:40.124Z",
+      "checkedAt": "2026-10-17T07:44:53.956Z",
       "sourceUrl": "https://apps.apple.com/ie/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2060,7 +2060,7 @@
     "google": {
       "currency": "ILS",
       "range": "₪59.99 - ₪744.99 per item",
-      "checkedAt": "2026-10-16T08:07:40.922Z",
+      "checkedAt": "2026-10-17T07:44:54.684Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=IL&hl=en"
     },
     "apple": {
@@ -2087,7 +2087,7 @@
           "displayPrice": "₪799.90"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:40.665Z",
+      "checkedAt": "2026-10-17T07:44:54.452Z",
       "sourceUrl": "https://apps.apple.com/il/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2116,13 +2116,13 @@
           "displayPrice": "₹ 19,900"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:39.783Z",
+      "checkedAt": "2026-10-17T07:44:52.754Z",
       "sourceUrl": "https://apps.apple.com/in/app/claude-by-anthropic/id6473753684"
     },
     "google": {
       "currency": "INR",
       "range": "₹1,999.00 - ₹24,987.50 per item",
-      "checkedAt": "2026-10-16T08:07:40.157Z",
+      "checkedAt": "2026-10-17T07:44:52.927Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=IN&hl=en"
     }
   },
@@ -2130,7 +2130,7 @@
     "google": {
       "currency": "IQD",
       "range": "IQD 26,200 - IQD 327,500 per item",
-      "checkedAt": "2026-10-16T08:07:40.229Z",
+      "checkedAt": "2026-10-17T07:44:54.046Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=IQ&hl=en"
     },
     "apple": {
@@ -2157,7 +2157,7 @@
           "displayPrice": "$214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:39.869Z",
+      "checkedAt": "2026-10-17T07:44:53.820Z",
       "sourceUrl": "https://apps.apple.com/iq/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2186,7 +2186,7 @@
           "displayPrice": "USD 249.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:39.135Z",
+      "checkedAt": "2026-10-17T07:44:53.019Z",
       "sourceUrl": "https://apps.apple.com/is/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2194,7 +2194,7 @@
     "google": {
       "currency": "EUR",
       "range": "€22.00 - €275.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:41.170Z",
+      "checkedAt": "2026-10-17T07:44:54.903Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=IT&hl=en"
     },
     "apple": {
@@ -2221,7 +2221,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:40.820Z",
+      "checkedAt": "2026-10-17T07:44:54.571Z",
       "sourceUrl": "https://apps.apple.com/it/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2250,7 +2250,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:41.144Z",
+      "checkedAt": "2026-10-17T07:44:54.799Z",
       "sourceUrl": "https://apps.apple.com/jm/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2258,7 +2258,7 @@
     "google": {
       "currency": "JOD",
       "range": "JOD 14.150 - JOD 176.880 per item",
-      "checkedAt": "2026-10-16T08:07:41.739Z",
+      "checkedAt": "2026-10-17T07:44:55.999Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=JO&hl=en"
     }
   },
@@ -2287,13 +2287,13 @@
           "displayPrice": "¥35,000"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:40.769Z",
+      "checkedAt": "2026-10-17T07:44:54.984Z",
       "sourceUrl": "https://apps.apple.com/jp/app/claude-by-anthropic/id6473753684"
     },
     "google": {
       "currency": "JPY",
       "range": "¥3,400 - ¥42,500 per item",
-      "checkedAt": "2026-10-16T08:07:41.045Z",
+      "checkedAt": "2026-10-17T07:44:55.278Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=JP&hl=en"
     }
   },
@@ -2301,7 +2301,7 @@
     "google": {
       "currency": "KES",
       "range": "Ksh 3,000.00 - Ksh 37,500.00 per item",
-      "checkedAt": "2026-10-16T08:07:42.384Z",
+      "checkedAt": "2026-10-17T07:44:57.616Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=KE&hl=en"
     },
     "apple": {
@@ -2328,7 +2328,7 @@
           "displayPrice": "USD 249.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:42.012Z",
+      "checkedAt": "2026-10-17T07:44:55.891Z",
       "sourceUrl": "https://apps.apple.com/ke/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2357,7 +2357,7 @@
           "displayPrice": "USD 229.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:42.466Z",
+      "checkedAt": "2026-10-17T07:44:56.317Z",
       "sourceUrl": "https://apps.apple.com/kg/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2365,7 +2365,7 @@
     "google": {
       "currency": "USD",
       "range": "$22.00 - $275.00 per item",
-      "checkedAt": "2026-10-16T08:07:29.763Z",
+      "checkedAt": "2026-10-17T07:44:45.102Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=KH&hl=en"
     },
     "apple": {
@@ -2392,7 +2392,7 @@
           "displayPrice": "USD 229.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:29.499Z",
+      "checkedAt": "2026-10-17T07:44:43.220Z",
       "sourceUrl": "https://apps.apple.com/kh/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2421,7 +2421,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:54.878Z",
+      "checkedAt": "2026-10-17T07:45:08.872Z",
       "sourceUrl": "https://apps.apple.com/kn/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2450,13 +2450,13 @@
           "displayPrice": "￦349,000"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:58.475Z",
+      "checkedAt": "2026-10-17T07:45:11.766Z",
       "sourceUrl": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684"
     },
     "google": {
       "currency": "KRW",
       "range": "₩30,000 - ₩375,000 per item",
-      "checkedAt": "2026-10-16T08:07:58.862Z",
+      "checkedAt": "2026-10-17T07:45:11.975Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=KR&hl=en"
     }
   },
@@ -2464,7 +2464,7 @@
     "google": {
       "currency": "USD",
       "range": "$20.00 - $250.00 per item",
-      "checkedAt": "2026-10-16T08:07:43.059Z",
+      "checkedAt": "2026-10-17T07:44:56.626Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=KW&hl=en"
     },
     "apple": {
@@ -2491,7 +2491,7 @@
           "displayPrice": "$214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:42.796Z",
+      "checkedAt": "2026-10-17T07:44:56.377Z",
       "sourceUrl": "https://apps.apple.com/kw/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2499,7 +2499,7 @@
     "google": {
       "currency": "KZT",
       "range": "KZT 9,990.00 - KZT 124,875.00 per item",
-      "checkedAt": "2026-10-16T08:07:42.069Z",
+      "checkedAt": "2026-10-17T07:44:55.800Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=KZ&hl=en"
     },
     "apple": {
@@ -2526,7 +2526,7 @@
           "displayPrice": "129,990.00₸"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:41.804Z",
+      "checkedAt": "2026-10-17T07:44:55.597Z",
       "sourceUrl": "https://apps.apple.com/kz/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2555,7 +2555,7 @@
           "displayPrice": "USD 229.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:42.855Z",
+      "checkedAt": "2026-10-17T07:44:56.727Z",
       "sourceUrl": "https://apps.apple.com/la/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2584,7 +2584,7 @@
           "displayPrice": "$214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:43.382Z",
+      "checkedAt": "2026-10-17T07:44:57.035Z",
       "sourceUrl": "https://apps.apple.com/lb/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2613,7 +2613,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:54.955Z",
+      "checkedAt": "2026-10-17T07:45:09.093Z",
       "sourceUrl": "https://apps.apple.com/lc/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2621,7 +2621,7 @@
     "google": {
       "currency": "CHF",
       "range": "CHF 19.00 - CHF 237.50 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:44.451Z",
+      "checkedAt": "2026-10-17T07:44:58.510Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=LI&hl=en"
     }
   },
@@ -2629,7 +2629,7 @@
     "google": {
       "currency": "LKR",
       "range": "LKR 6,075.00 - LKR 75,937.50 per item",
-      "checkedAt": "2026-10-16T08:07:59.723Z",
+      "checkedAt": "2026-10-17T07:45:12.826Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=LK&hl=en"
     },
     "apple": {
@@ -2656,7 +2656,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:59.372Z",
+      "checkedAt": "2026-10-17T07:45:12.471Z",
       "sourceUrl": "https://apps.apple.com/lk/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2685,7 +2685,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:43.852Z",
+      "checkedAt": "2026-10-17T07:44:57.693Z",
       "sourceUrl": "https://apps.apple.com/lr/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2693,7 +2693,7 @@
     "google": {
       "currency": "EUR",
       "range": "€22.00 - €275.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:44.805Z",
+      "checkedAt": "2026-10-17T07:44:59.050Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=LT&hl=en"
     },
     "apple": {
@@ -2720,7 +2720,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:44.564Z",
+      "checkedAt": "2026-10-17T07:44:57.888Z",
       "sourceUrl": "https://apps.apple.com/lt/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2728,7 +2728,7 @@
     "google": {
       "currency": "EUR",
       "range": "€22.00 - €275.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:45.233Z",
+      "checkedAt": "2026-10-17T07:44:59.107Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=LU&hl=en"
     },
     "apple": {
@@ -2755,7 +2755,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:44.982Z",
+      "checkedAt": "2026-10-17T07:44:58.837Z",
       "sourceUrl": "https://apps.apple.com/lu/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2763,7 +2763,7 @@
     "google": {
       "currency": "EUR",
       "range": "€22.00 - €275.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:43.215Z",
+      "checkedAt": "2026-10-17T07:44:57.450Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=LV&hl=en"
     },
     "apple": {
@@ -2790,7 +2790,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:42.926Z",
+      "checkedAt": "2026-10-17T07:44:56.883Z",
       "sourceUrl": "https://apps.apple.com/lv/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2819,7 +2819,7 @@
           "displayPrice": "$214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:43.786Z",
+      "checkedAt": "2026-10-17T07:44:57.829Z",
       "sourceUrl": "https://apps.apple.com/ly/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2827,7 +2827,7 @@
     "google": {
       "currency": "MAD",
       "range": "MAD 234.99 - MAD 2,937.38 per item",
-      "checkedAt": "2026-10-16T08:07:48.831Z",
+      "checkedAt": "2026-10-17T07:45:04.519Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=MA&hl=en"
     },
     "apple": {
@@ -2854,7 +2854,7 @@
           "displayPrice": "$214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:48.583Z",
+      "checkedAt": "2026-10-17T07:45:01.444Z",
       "sourceUrl": "https://apps.apple.com/ma/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2862,7 +2862,7 @@
     "google": {
       "currency": "EUR",
       "range": "€22.00 - €275.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:47.916Z",
+      "checkedAt": "2026-10-17T07:45:01.220Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=MC&hl=en"
     }
   },
@@ -2891,7 +2891,7 @@
           "displayPrice": "USD 249.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:48.064Z",
+      "checkedAt": "2026-10-17T07:45:00.785Z",
       "sourceUrl": "https://apps.apple.com/md/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2920,7 +2920,7 @@
           "displayPrice": "199,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:48.170Z",
+      "checkedAt": "2026-10-17T07:45:01.289Z",
       "sourceUrl": "https://apps.apple.com/me/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2949,7 +2949,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:45.107Z",
+      "checkedAt": "2026-10-17T07:44:58.769Z",
       "sourceUrl": "https://apps.apple.com/mg/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -2978,7 +2978,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:50.959Z",
+      "checkedAt": "2026-10-17T07:45:04.069Z",
       "sourceUrl": "https://apps.apple.com/mk/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3007,7 +3007,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:45.948Z",
+      "checkedAt": "2026-10-17T07:44:59.593Z",
       "sourceUrl": "https://apps.apple.com/ml/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3015,7 +3015,7 @@
     "google": {
       "currency": "MNT",
       "range": "MNT 65,842.00 - MNT 978,725.00 per item",
-      "checkedAt": "2026-10-16T08:07:48.586Z",
+      "checkedAt": "2026-10-17T07:45:01.343Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=MN&hl=en"
     },
     "apple": {
@@ -3042,7 +3042,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:48.227Z",
+      "checkedAt": "2026-10-17T07:45:01.110Z",
       "sourceUrl": "https://apps.apple.com/mn/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3071,7 +3071,7 @@
           "displayPrice": "$214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:46.970Z",
+      "checkedAt": "2026-10-17T07:45:00.306Z",
       "sourceUrl": "https://apps.apple.com/mr/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3100,7 +3100,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:46.016Z",
+      "checkedAt": "2026-10-17T07:44:59.540Z",
       "sourceUrl": "https://apps.apple.com/mt/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3129,7 +3129,7 @@
           "displayPrice": "USD 249.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:46.888Z",
+      "checkedAt": "2026-10-17T07:45:00.186Z",
       "sourceUrl": "https://apps.apple.com/mu/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3158,7 +3158,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:46.438Z",
+      "checkedAt": "2026-10-17T07:44:59.424Z",
       "sourceUrl": "https://apps.apple.com/mv/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3187,7 +3187,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:45.051Z",
+      "checkedAt": "2026-10-17T07:44:58.893Z",
       "sourceUrl": "https://apps.apple.com/mw/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3195,7 +3195,7 @@
     "google": {
       "currency": "MXN",
       "range": "MX$399.00 - MX$4,987.50 per item",
-      "checkedAt": "2026-10-16T08:07:47.643Z",
+      "checkedAt": "2026-10-17T07:45:00.671Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=MX&hl=en"
     },
     "apple": {
@@ -3222,7 +3222,7 @@
           "displayPrice": "$4,999.00"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:47.300Z",
+      "checkedAt": "2026-10-17T07:45:00.452Z",
       "sourceUrl": "https://apps.apple.com/mx/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3230,7 +3230,7 @@
     "google": {
       "currency": "MYR",
       "range": "RM 99.90 - RM 1,248.75 per item",
-      "checkedAt": "2026-10-16T08:07:45.710Z",
+      "checkedAt": "2026-10-17T07:44:59.828Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=MY&hl=en"
     },
     "apple": {
@@ -3257,7 +3257,7 @@
           "displayPrice": "RM999.90"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:45.481Z",
+      "checkedAt": "2026-10-17T07:44:59.491Z",
       "sourceUrl": "https://apps.apple.com/my/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3286,7 +3286,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:48.977Z",
+      "checkedAt": "2026-10-17T07:45:01.715Z",
       "sourceUrl": "https://apps.apple.com/mz/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3315,7 +3315,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:49.047Z",
+      "checkedAt": "2026-10-17T07:45:01.956Z",
       "sourceUrl": "https://apps.apple.com/na/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3344,7 +3344,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:50.324Z",
+      "checkedAt": "2026-10-17T07:45:03.432Z",
       "sourceUrl": "https://apps.apple.com/ne/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3352,7 +3352,7 @@
     "google": {
       "currency": "NGN",
       "range": "₦33,500.00 - ₦418,750.00 per item",
-      "checkedAt": "2026-10-16T08:07:51.298Z",
+      "checkedAt": "2026-10-17T07:45:03.748Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=NG&hl=en"
     },
     "apple": {
@@ -3379,7 +3379,7 @@
           "displayPrice": "₦ 349,900.00"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:50.999Z",
+      "checkedAt": "2026-10-17T07:45:03.547Z",
       "sourceUrl": "https://apps.apple.com/ng/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3408,7 +3408,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:50.247Z",
+      "checkedAt": "2026-10-17T07:45:03.043Z",
       "sourceUrl": "https://apps.apple.com/ni/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3416,7 +3416,7 @@
     "google": {
       "currency": "EUR",
       "range": "€22.00 - €275.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:50.447Z",
+      "checkedAt": "2026-10-17T07:45:03.179Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=NL&hl=en"
     },
     "apple": {
@@ -3443,7 +3443,7 @@
           "displayPrice": "€ 249,99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:50.107Z",
+      "checkedAt": "2026-10-17T07:45:02.976Z",
       "sourceUrl": "https://apps.apple.com/nl/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3451,7 +3451,7 @@
     "google": {
       "currency": "NOK",
       "range": "249,00 kr - 3 112,50 kr if billed through Play",
-      "checkedAt": "2026-10-16T08:07:51.688Z",
+      "checkedAt": "2026-10-17T07:45:04.754Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=NO&hl=en"
     },
     "apple": {
@@ -3478,7 +3478,7 @@
           "displayPrice": "2.990,00 kr"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:51.418Z",
+      "checkedAt": "2026-10-17T07:45:04.356Z",
       "sourceUrl": "https://apps.apple.com/no/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3507,7 +3507,7 @@
           "displayPrice": "USD 249.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:49.497Z",
+      "checkedAt": "2026-10-17T07:45:02.310Z",
       "sourceUrl": "https://apps.apple.com/np/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3536,7 +3536,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:49.126Z",
+      "checkedAt": "2026-10-17T07:45:02.008Z",
       "sourceUrl": "https://apps.apple.com/nr/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3544,7 +3544,7 @@
     "google": {
       "currency": "NZD",
       "range": "$40.00 - $500.00 per item",
-      "checkedAt": "2026-10-16T08:07:50.400Z",
+      "checkedAt": "2026-10-17T07:45:03.113Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=NZ&hl=en"
     },
     "apple": {
@@ -3571,7 +3571,7 @@
           "displayPrice": "$399.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:50.062Z",
+      "checkedAt": "2026-10-17T07:45:02.909Z",
       "sourceUrl": "https://apps.apple.com/nz/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3579,7 +3579,7 @@
     "google": {
       "currency": "USD",
       "range": "$20.00 - $250.00 per item",
-      "checkedAt": "2026-10-16T08:07:51.587Z",
+      "checkedAt": "2026-10-17T07:45:05.008Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=OM&hl=en"
     },
     "apple": {
@@ -3606,7 +3606,7 @@
           "displayPrice": "$214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:51.338Z",
+      "checkedAt": "2026-10-17T07:45:04.699Z",
       "sourceUrl": "https://apps.apple.com/om/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3614,7 +3614,7 @@
     "google": {
       "currency": "USD",
       "range": "$20.00 - $250.00 per item",
-      "checkedAt": "2026-10-16T08:07:52.687Z",
+      "checkedAt": "2026-10-17T07:45:05.631Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=PA&hl=en"
     },
     "apple": {
@@ -3641,7 +3641,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:52.425Z",
+      "checkedAt": "2026-10-17T07:45:05.453Z",
       "sourceUrl": "https://apps.apple.com/pa/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3649,7 +3649,7 @@
     "google": {
       "currency": "PEN",
       "range": "PEN 79.90 - PEN 998.75 per item",
-      "checkedAt": "2026-10-16T08:07:53.460Z",
+      "checkedAt": "2026-10-17T07:45:06.819Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=PE&hl=en"
     },
     "apple": {
@@ -3676,7 +3676,7 @@
           "displayPrice": "S/ 999.90"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:53.229Z",
+      "checkedAt": "2026-10-17T07:45:06.642Z",
       "sourceUrl": "https://apps.apple.com/pe/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3705,7 +3705,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:52.725Z",
+      "checkedAt": "2026-10-17T07:45:05.744Z",
       "sourceUrl": "https://apps.apple.com/pg/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3713,7 +3713,7 @@
     "google": {
       "currency": "PHP",
       "range": "₱1,300.00 - ₱16,250.00 per item",
-      "checkedAt": "2026-10-16T08:07:53.909Z",
+      "checkedAt": "2026-10-17T07:45:07.543Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=PH&hl=en"
     },
     "apple": {
@@ -3740,7 +3740,7 @@
           "displayPrice": "₱ 12,990.00"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:53.623Z",
+      "checkedAt": "2026-10-17T07:45:07.250Z",
       "sourceUrl": "https://apps.apple.com/ph/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3748,7 +3748,7 @@
     "google": {
       "currency": "PKR",
       "range": "Rs 4,900.00 - Rs 61,250.00 per item",
-      "checkedAt": "2026-10-16T08:07:52.088Z",
+      "checkedAt": "2026-10-17T07:45:06.118Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=PK&hl=en"
     },
     "apple": {
@@ -3783,7 +3783,7 @@
     "google": {
       "currency": "PLN",
       "range": "89,99 PLN - 1.140,00 PLN if billed through Play",
-      "checkedAt": "2026-10-16T08:07:54.141Z",
+      "checkedAt": "2026-10-17T07:45:08.000Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=PL&hl=en"
     },
     "apple": {
@@ -3810,7 +3810,7 @@
           "displayPrice": "999,99 zł"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:53.856Z",
+      "checkedAt": "2026-10-17T07:45:07.481Z",
       "sourceUrl": "https://apps.apple.com/pl/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3818,7 +3818,7 @@
     "google": {
       "currency": "EUR",
       "range": "€22.00 - €275.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:54.273Z",
+      "checkedAt": "2026-10-17T07:45:09.020Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=PT&hl=en"
     },
     "apple": {
@@ -3845,7 +3845,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:54.035Z",
+      "checkedAt": "2026-10-17T07:45:08.082Z",
       "sourceUrl": "https://apps.apple.com/pt/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3874,7 +3874,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:51.953Z",
+      "checkedAt": "2026-10-17T07:45:04.955Z",
       "sourceUrl": "https://apps.apple.com/pw/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3882,7 +3882,7 @@
     "google": {
       "currency": "PYG",
       "range": "PYG 150,000 - PYG 1,875,000 per item",
-      "checkedAt": "2026-10-16T08:07:53.153Z",
+      "checkedAt": "2026-10-17T07:45:08.121Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=PY&hl=en"
     },
     "apple": {
@@ -3909,7 +3909,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:52.888Z",
+      "checkedAt": "2026-10-17T07:45:07.687Z",
       "sourceUrl": "https://apps.apple.com/py/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3917,7 +3917,7 @@
     "google": {
       "currency": "QAR",
       "range": "QAR 69.99 - QAR 874.88 per item",
-      "checkedAt": "2026-10-16T08:07:54.319Z",
+      "checkedAt": "2026-10-17T07:45:08.927Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=QA&hl=en"
     },
     "apple": {
@@ -3944,7 +3944,7 @@
           "displayPrice": "QAR 799.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:53.986Z",
+      "checkedAt": "2026-10-17T07:45:08.319Z",
       "sourceUrl": "https://apps.apple.com/qa/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3952,7 +3952,7 @@
     "google": {
       "currency": "RON",
       "range": "99,99 RON - 1.249,88 RON if billed through Play",
-      "checkedAt": "2026-10-16T08:07:54.634Z",
+      "checkedAt": "2026-10-17T07:45:08.510Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=RO&hl=en"
     },
     "apple": {
@@ -3979,7 +3979,7 @@
           "displayPrice": "1 199,99 lei"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:54.402Z",
+      "checkedAt": "2026-10-17T07:45:08.259Z",
       "sourceUrl": "https://apps.apple.com/ro/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -3987,7 +3987,7 @@
     "google": {
       "currency": "RSD",
       "range": "RSD 2,599 - RSD 32,488 per item",
-      "checkedAt": "2026-10-16T08:07:56.709Z",
+      "checkedAt": "2026-10-17T07:45:10.657Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=RS&hl=en"
     },
     "apple": {
@@ -4014,7 +4014,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:56.426Z",
+      "checkedAt": "2026-10-17T07:45:10.273Z",
       "sourceUrl": "https://apps.apple.com/rs/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4043,7 +4043,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:54.803Z",
+      "checkedAt": "2026-10-17T07:45:08.564Z",
       "sourceUrl": "https://apps.apple.com/rw/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4051,7 +4051,7 @@
     "google": {
       "currency": "SAR",
       "range": "SAR 89.99 - SAR 1,124.88 per item",
-      "checkedAt": "2026-10-16T08:07:56.481Z",
+      "checkedAt": "2026-10-17T07:45:10.467Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=SA&hl=en"
     },
     "apple": {
@@ -4078,7 +4078,7 @@
           "displayPrice": "SAR 999.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:56.173Z",
+      "checkedAt": "2026-10-17T07:45:10.076Z",
       "sourceUrl": "https://apps.apple.com/sa/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4107,7 +4107,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:58.184Z",
+      "checkedAt": "2026-10-17T07:45:11.664Z",
       "sourceUrl": "https://apps.apple.com/sb/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4136,7 +4136,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:56.922Z",
+      "checkedAt": "2026-10-17T07:45:10.606Z",
       "sourceUrl": "https://apps.apple.com/sc/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4144,7 +4144,7 @@
     "google": {
       "currency": "SEK",
       "range": "249,00 kr - 3 112,50 kr if billed through Play",
-      "checkedAt": "2026-10-16T08:08:00.642Z",
+      "checkedAt": "2026-10-17T07:45:13.500Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=SE&hl=en"
     },
     "apple": {
@@ -4171,7 +4171,7 @@
           "displayPrice": "2 995,00 kr"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:00.304Z",
+      "checkedAt": "2026-10-17T07:45:13.191Z",
       "sourceUrl": "https://apps.apple.com/se/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4200,13 +4200,13 @@
           "displayPrice": "S$ 299.98"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:57.364Z",
+      "checkedAt": "2026-10-17T07:45:11.102Z",
       "sourceUrl": "https://apps.apple.com/sg/app/claude-by-anthropic/id6473753684"
     },
     "google": {
       "currency": "SGD",
       "range": "$29.98 - $374.75 per item",
-      "checkedAt": "2026-10-16T08:07:57.615Z",
+      "checkedAt": "2026-10-17T07:45:11.454Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=SG&hl=en"
     }
   },
@@ -4214,7 +4214,7 @@
     "google": {
       "currency": "EUR",
       "range": "€22.00 - €275.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:57.928Z",
+      "checkedAt": "2026-10-17T07:45:11.380Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=SI&hl=en"
     },
     "apple": {
@@ -4241,7 +4241,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:57.682Z",
+      "checkedAt": "2026-10-17T07:45:11.159Z",
       "sourceUrl": "https://apps.apple.com/si/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4249,7 +4249,7 @@
     "google": {
       "currency": "EUR",
       "range": "€22.00 - €275.00 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:57.754Z",
+      "checkedAt": "2026-10-17T07:45:11.217Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=SK&hl=en"
     },
     "apple": {
@@ -4276,7 +4276,7 @@
           "displayPrice": "249,99 €"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:57.436Z",
+      "checkedAt": "2026-10-17T07:45:10.926Z",
       "sourceUrl": "https://apps.apple.com/sk/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4305,7 +4305,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:57.026Z",
+      "checkedAt": "2026-10-17T07:45:10.973Z",
       "sourceUrl": "https://apps.apple.com/sl/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4313,7 +4313,7 @@
     "google": {
       "currency": "EUR",
       "range": "€18.99 - €237.38 if billed through Play",
-      "checkedAt": "2026-10-16T08:07:55.935Z",
+      "checkedAt": "2026-10-17T07:45:09.645Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=SM&hl=en"
     }
   },
@@ -4321,7 +4321,7 @@
     "google": {
       "currency": "XOF",
       "range": "F CFA 12,281 - F CFA 153,512 per item",
-      "checkedAt": "2026-10-16T08:07:56.852Z",
+      "checkedAt": "2026-10-17T07:45:10.550Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=SN&hl=en"
     },
     "apple": {
@@ -4348,7 +4348,7 @@
           "displayPrice": "USD 249.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:56.547Z",
+      "checkedAt": "2026-10-17T07:45:10.335Z",
       "sourceUrl": "https://apps.apple.com/sn/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4377,7 +4377,7 @@
           "displayPrice": "USD 229.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:59.554Z",
+      "checkedAt": "2026-10-17T07:45:12.670Z",
       "sourceUrl": "https://apps.apple.com/sr/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4406,7 +4406,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:56.006Z",
+      "checkedAt": "2026-10-17T07:45:09.733Z",
       "sourceUrl": "https://apps.apple.com/st/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4414,7 +4414,7 @@
     "google": {
       "currency": "USD",
       "range": "$20.00 - $250.00 per item",
-      "checkedAt": "2026-10-16T08:07:34.486Z",
+      "checkedAt": "2026-10-17T07:44:48.325Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=SV&hl=en"
     },
     "apple": {
@@ -4441,7 +4441,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:34.217Z",
+      "checkedAt": "2026-10-17T07:44:48.013Z",
       "sourceUrl": "https://apps.apple.com/sv/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4470,7 +4470,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:35.092Z",
+      "checkedAt": "2026-10-17T07:44:48.722Z",
       "sourceUrl": "https://apps.apple.com/sz/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4499,7 +4499,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:30.339Z",
+      "checkedAt": "2026-10-17T07:44:44.856Z",
       "sourceUrl": "https://apps.apple.com/td/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4528,13 +4528,13 @@
           "displayPrice": "฿7,990.00"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:01.288Z",
+      "checkedAt": "2026-10-17T07:45:13.919Z",
       "sourceUrl": "https://apps.apple.com/th/app/claude-by-anthropic/id6473753684"
     },
     "google": {
       "currency": "THB",
       "range": "THB 799.00 - THB 9,987.50 per item",
-      "checkedAt": "2026-10-16T08:08:01.815Z",
+      "checkedAt": "2026-10-17T07:45:14.197Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=TH&hl=en"
     }
   },
@@ -4563,7 +4563,7 @@
           "displayPrice": "USD 229.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:00.472Z",
+      "checkedAt": "2026-10-17T07:45:13.355Z",
       "sourceUrl": "https://apps.apple.com/tj/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4592,7 +4592,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:02.917Z",
+      "checkedAt": "2026-10-17T07:45:15.825Z",
       "sourceUrl": "https://apps.apple.com/tm/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4621,7 +4621,7 @@
           "displayPrice": "$214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:02.270Z",
+      "checkedAt": "2026-10-17T07:45:15.158Z",
       "sourceUrl": "https://apps.apple.com/tn/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4650,7 +4650,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:02.081Z",
+      "checkedAt": "2026-10-17T07:45:15.822Z",
       "sourceUrl": "https://apps.apple.com/to/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4658,7 +4658,7 @@
     "google": {
       "currency": "TRY",
       "range": "TRY 999.99 - TRY 12,999.99 per item",
-      "checkedAt": "2026-10-16T08:08:02.721Z",
+      "checkedAt": "2026-10-17T07:45:16.263Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=TR&hl=en"
     },
     "apple": {
@@ -4685,7 +4685,7 @@
           "displayPrice": "₺11.999,99"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:02.359Z",
+      "checkedAt": "2026-10-17T07:45:15.876Z",
       "sourceUrl": "https://apps.apple.com/tr/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4714,7 +4714,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:02.144Z",
+      "checkedAt": "2026-10-17T07:45:14.559Z",
       "sourceUrl": "https://apps.apple.com/tt/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4743,13 +4743,13 @@
           "displayPrice": "$6,990.00"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:00.223Z",
+      "checkedAt": "2026-10-17T07:45:13.122Z",
       "sourceUrl": "https://apps.apple.com/tw/app/claude-by-anthropic/id6473753684"
     },
     "google": {
       "currency": "TWD",
       "range": "NT$690.00 - NT$8,625.00 per item",
-      "checkedAt": "2026-10-16T08:08:00.566Z",
+      "checkedAt": "2026-10-17T07:45:13.304Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=TW&hl=en"
     }
   },
@@ -4757,7 +4757,7 @@
     "google": {
       "currency": "TZS",
       "range": "TSh 59,900.00 - TSh 748,750.00 per item",
-      "checkedAt": "2026-10-16T08:08:01.497Z",
+      "checkedAt": "2026-10-17T07:45:13.972Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=TZ&hl=en"
     },
     "apple": {
@@ -4784,7 +4784,7 @@
           "displayPrice": "599,900.00 TZS"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:01.161Z",
+      "checkedAt": "2026-10-17T07:45:13.728Z",
       "sourceUrl": "https://apps.apple.com/tz/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4792,7 +4792,7 @@
     "google": {
       "currency": "UAH",
       "range": "979,99 UAH - 12 249,88 UAH per item",
-      "checkedAt": "2026-10-16T08:08:03.619Z",
+      "checkedAt": "2026-10-17T07:45:16.749Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=UA&hl=en"
     },
     "apple": {
@@ -4819,7 +4819,7 @@
           "displayPrice": "249,99 USD"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:03.308Z",
+      "checkedAt": "2026-10-17T07:45:16.517Z",
       "sourceUrl": "https://apps.apple.com/ua/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4848,7 +4848,7 @@
           "displayPrice": "USD 249.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:03.187Z",
+      "checkedAt": "2026-10-17T07:45:16.627Z",
       "sourceUrl": "https://apps.apple.com/ug/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4877,13 +4877,13 @@
           "displayPrice": "$214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:03.571Z",
+      "checkedAt": "2026-10-17T07:45:16.823Z",
       "sourceUrl": "https://apps.apple.com/us/app/claude-by-anthropic/id6473753684"
     },
     "google": {
       "currency": "USD",
       "range": "$20.00 - $700.00 per item",
-      "checkedAt": "2026-10-16T08:08:03.846Z",
+      "checkedAt": "2026-10-17T07:45:17.132Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=US&hl=en"
     }
   },
@@ -4912,7 +4912,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:04.360Z",
+      "checkedAt": "2026-10-17T07:45:17.332Z",
       "sourceUrl": "https://apps.apple.com/uy/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4941,13 +4941,13 @@
           "displayPrice": "USD 229.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:04.433Z",
+      "checkedAt": "2026-10-17T07:45:17.383Z",
       "sourceUrl": "https://apps.apple.com/uz/app/claude-by-anthropic/id6473753684"
     },
     "google": {
       "currency": "UZS",
       "range": "UZS 264,000.00 - UZS 3,300,000.00 per item",
-      "checkedAt": "2026-10-16T08:08:04.732Z",
+      "checkedAt": "2026-10-17T07:45:17.628Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=UZ&hl=en"
     }
   },
@@ -4955,7 +4955,7 @@
     "google": {
       "currency": "EUR",
       "range": "€18.99 - €237.38 if billed through Play",
-      "checkedAt": "2026-10-16T08:08:05.223Z",
+      "checkedAt": "2026-10-17T07:45:18.197Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=VA&hl=en"
     }
   },
@@ -4984,7 +4984,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:55.200Z",
+      "checkedAt": "2026-10-17T07:45:09.409Z",
       "sourceUrl": "https://apps.apple.com/vc/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -4992,7 +4992,7 @@
     "google": {
       "currency": "VND",
       "range": "₫499,000 - ₫6,237,500 per item",
-      "checkedAt": "2026-10-16T08:08:05.659Z",
+      "checkedAt": "2026-10-17T07:45:20.300Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=VN&hl=en"
     },
     "apple": {
@@ -5019,7 +5019,7 @@
           "displayPrice": "6.999.000đ"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:05.355Z",
+      "checkedAt": "2026-10-17T07:45:19.653Z",
       "sourceUrl": "https://apps.apple.com/vn/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -5048,7 +5048,7 @@
           "displayPrice": "USD 214.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:04.626Z",
+      "checkedAt": "2026-10-17T07:45:17.507Z",
       "sourceUrl": "https://apps.apple.com/vu/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -5077,13 +5077,13 @@
           "displayPrice": "R4,499.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:07:58.297Z",
+      "checkedAt": "2026-10-17T07:45:11.824Z",
       "sourceUrl": "https://apps.apple.com/za/app/claude-by-anthropic/id6473753684"
     },
     "google": {
       "currency": "ZAR",
       "range": "R 399,99 - R 4 999,88 per item",
-      "checkedAt": "2026-10-16T08:07:58.646Z",
+      "checkedAt": "2026-10-17T07:45:12.030Z",
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&gl=ZA&hl=en"
     }
   },
@@ -5112,7 +5112,7 @@
           "displayPrice": "USD 249.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:05.397Z",
+      "checkedAt": "2026-10-17T07:45:18.005Z",
       "sourceUrl": "https://apps.apple.com/zm/app/claude-by-anthropic/id6473753684"
     }
   },
@@ -5141,7 +5141,7 @@
           "displayPrice": "USD 249.99"
         }
       ],
-      "checkedAt": "2026-10-16T08:08:05.582Z",
+      "checkedAt": "2026-10-17T07:45:18.096Z",
       "sourceUrl": "https://apps.apple.com/zw/app/claude-by-anthropic/id6473753684"
     }
   }
